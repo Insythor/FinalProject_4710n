@@ -1,0 +1,1537 @@
+﻿Log file open, 02/18/19 23:00:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SheepHerderSimulator
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287950
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.180s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) W-2123 CPU @ 3.60GHz, GPU: NVIDIA Quadro P4000
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.19-06.00.59:651][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.19-06.00.59:652][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.19-06.00.59:653][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:653][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:693][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.19-06.00.59:693][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:693][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.19-06.00.59:694][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.19-06.00.59:694][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.19-06.00.59:694][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.19-06.00.59:720][  0]LogHAL: Display: Platform has ~ 16 GB [16840900608 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.19-06.00.59:720][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.19-06.00.59:720][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.19-06.00.59:722][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.19-06.00.59:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/NICK/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.19-06.00.59:722][  0]LogInit: Computer: W700B-R1M1
+[2019.02.19-06.00.59:722][  0]LogInit: User: nyhong
+[2019.02.19-06.00.59:722][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.19-06.00.59:722][  0]LogInit: High frequency timer resolution =3.515623 MHz
+[2019.02.19-06.00.59:722][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2019.02.19-06.00.59:722][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.19-06.00.59:722][  0]LogMemory: Process Physical Memory: 104.22 MB used, 104.22 MB peak
+[2019.02.19-06.00.59:722][  0]LogMemory: Process Virtual Memory: 94.14 MB used, 94.14 MB peak
+[2019.02.19-06.00.59:722][  0]LogMemory: Physical Memory: 6304.41 MB used,  9756.32 MB free, 16060.73 MB total
+[2019.02.19-06.00.59:722][  0]LogMemory: Virtual Memory: 553.80 MB used,  134217176.00 MB free, 134217728.00 MB total
+[2019.02.19-06.00.59:736][  0]LogInit: Using OS detected language (en-US).
+[2019.02.19-06.00.59:736][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.19-06.00.59:736][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.19-06.01.00:088][  0]LogStreaming: Display: Took  0.352s to InitEngineTextLocalization.
+[2019.02.19-06.01.00:088][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.19-06.01.00:142][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.19-06.01.00:142][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.19-06.01.00:338][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.19-06.01.00:338][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.19-06.01.00:392][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2019.02.19-06.01.00:392][  0]LogD3D11RHI:       8090/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.19-06.01.00:394][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.19-06.01.00:394][  0]LogD3D11RHI:       0/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.19-06.01.00:394][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.19-06.01.00:400][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.19-06.01.00:400][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.19-06.01.00:400][  0]LogWindows: EnumDisplayDevices:
+[2019.02.19-06.01.00:400][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2019.02.19-06.01.00:400][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:1)
+[2019.02.19-06.01.00:400][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2019.02.19-06.01.00:401][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2019.02.19-06.01.00:401][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.19-06.01.00:401][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2019.02.19-06.01.00:401][  0]LogD3D11RHI:   Driver Version: 411.95 (internal:24.21.14.1195, unified:411.95)
+[2019.02.19-06.01.00:401][  0]LogD3D11RHI:      Driver Date: 11-8-2018
+[2019.02.19-06.01.00:401][  0]LogRHI: Texture pool is 5663 MB (70% of 8090 MB)
+[2019.02.19-06.01.00:473][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.19-06.01.00:492][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.19-06.01.01:094][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.19-06.01.01:111][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.19-06.01.01:124][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.19-06.01.01:135][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.19-06.01.01:146][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.19-06.01.01:157][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.19-06.01.01:178][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.19-06.01.01:189][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.19-06.01.01:195][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:264][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.19-06.01.01:265][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.19-06.01.01:343][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.19-06.01.01:343][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.19-06.01.01:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.19-06.01.01:370][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.19-06.01.01:380][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.19-06.01.01:390][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.19-06.01.01:399][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.19-06.01.01:410][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.19-06.01.01:452][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.19-06.01.01:452][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.19-06.01.01:452][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.19-06.01.01:499][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (D:/NICK/FinalProject_4710n/Intermediate/Shaders/WorkingDirectory/8892/).
+[2019.02.19-06.01.01:499][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ny.hong.ULETH/AppData/Local/Temp/UnrealShaderWorkingDir/3FE90ACD431D8EE276315E9E9E041401/'.
+[2019.02.19-06.01.01:501][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.19-06.01.01:501][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.19-06.01.01:501][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.19-06.01.01:992][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: Loaded boot cache 0.05s 87MB C:/Users/ny.hong.ULETH/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ny.hong.ULETH/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/NICK/FinalProject_4710n/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/NICK/FinalProject_4710n/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.19-06.01.02:045][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.19-06.01.02:057][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.19-06.01.02:060][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.02.19-06.01.02:072][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ny.hong.ULETH/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.19-06.01.02:072][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.19-06.01.02:072][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.19-06.01.02:092][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.19-06.01.02:094][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.19-06.01.02:094][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.19-06.01.02:197][  0]LogAssetRegistry: FAssetRegistry took 0.0428 seconds to start up
+[2019.02.19-06.01.02:523][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.19-06.01.02:679][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.19-06.01.02:681][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.19-06.01.02:681][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.19-06.01.02:681][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.19-06.01.02:681][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.19-06.01.02:697][  0]LogNetVersion: SheepHerderSimulator 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2562096638)
+[2019.02.19-06.01.03:365][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.098398 seconds
+[2019.02.19-06.01.03:371][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.19-06.01.03:371][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.19-06.01.03:371][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.19-06.01.04:192][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.19-06.01.04:207][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.19-06.01.04:886][  0]SourceControl: Source control is disabled
+[2019.02.19-06.01.05:473][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.19-06.01.05:573][  0]LogOcInput: OculusInput pre-init called
+[2019.02.19-06.01.05:746][  0]LogEngine: Initializing Engine...
+[2019.02.19-06.01.05:747][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.19-06.01.05:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.19-06.01.05:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.19-06.01.05:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.19-06.01.05:748][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.19-06.01.06:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.19-06.01.06:069][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.19-06.01.06:078][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.19-06.01.06:388][  0]LogInit: FAudioDevice initialized.
+[2019.02.19-06.01.06:388][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.19-06.01.06:487][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/ny.hong.ULETH/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.19-06.01.06:500][  0]LogInit: Texture streaming: Enabled
+[2019.02.19-06.01.06:529][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.19-06.01.06:546][  0]LogInit: Transaction tracking system initialized
+[2019.02.19-06.01.06:575][  0]BlueprintLog: New page: Editor Load
+[2019.02.19-06.01.06:683][  0]LocalizationService: Localization service is disabled
+[2019.02.19-06.01.07:272][  0]LogFileCache: Scanning file cache for directory 'D:/NICK/FinalProject_4710n/Content/' took 0.01s
+[2019.02.19-06.01.07:272][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.19-06.01.07:272][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.19-06.01.07:272][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.19-06.01.07:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.19-06.01.07:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.19-06.01.07:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.19-06.01.07:272][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.19-06.01.07:387][  0]Cmd: MAP LOAD FILE="D:/NICK/FinalProject_4710n/Content/Maps/TEST_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.19-06.01.07:387][  0]LightingResults: New page: Lighting Build
+[2019.02.19-06.01.07:390][  0]MapCheck: New page: Map Check
+[2019.02.19-06.01.07:390][  0]LightingResults: New page: Lighting Build
+[2019.02.19-06.01.07:894][  0]LogAIModule: Creating AISystem for world TEST_Map
+[2019.02.19-06.01.07:905][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.19-06.01.07:939][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.19-06.01.07:939][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.02.19-06.01.07:939][  0]LogFileHelpers: Loading map 'TEST_Map' took 0.552
+[2019.02.19-06.01.08:014][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.19-06.01.08:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.01.08:070][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.01.08:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.01.08:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.01.08:092][  0]LogCollectionManager: Loaded 0 collections in 0.001737 seconds
+[2019.02.19-06.01.08:107][  0]LogFileCache: Scanning file cache for directory 'D:/NICK/FinalProject_4710n/Saved/Collections/' took 0.01s
+[2019.02.19-06.01.08:107][  0]LogFileCache: Scanning file cache for directory 'D:/NICK/FinalProject_4710n/Content/Developers/nyhong/Collections/' took 0.00s
+[2019.02.19-06.01.08:107][  0]LogFileCache: Scanning file cache for directory 'D:/NICK/FinalProject_4710n/Content/Collections/' took 0.00s
+[2019.02.19-06.01.08:107][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.19-06.01.08:117][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2658 classes and 622 folders.
+[2019.02.19-06.01.08:123][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.19-06.01.08:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:126][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:128][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:135][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.19-06.01.08:165][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.19-06.01.08:170][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.19-06.01.08:183][  0]LogSlate: Took 0.000701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.19-06.01.08:186][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.19-06.01.08:193][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.19-06.01.08:269][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-06.01.08:384][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.02.19-06.01.08:385][  0]LogLoad: (Engine Initialization) Total time: 10.71 seconds
+[2019.02.19-06.01.08:385][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.19-06.01.08:450][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.19-06.01.08:564][  2]LogAssetRegistry: Asset discovery search completed in 6.3884 seconds
+[2019.02.19-06.01.08:565][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.19-06.01.08:565][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2019.02.19-06.01.13:942][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.01.14:068][656]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.19-06.01.14:150][656]LogAIModule: Creating AISystem for world assetTest
+[2019.02.19-06.01.14:156][656]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/assetTest.assetTest
+[2019.02.19-06.01.14:182][656]Cmd: MAP LOAD FILE="D:/NICK/FinalProject_4710n/Content/Maps/assetTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.19-06.01.14:182][656]LightingResults: New page: Lighting Build
+[2019.02.19-06.01.14:182][656]LoadErrors: New page: Loading map: assetTest.umap
+[2019.02.19-06.01.14:183][656]MapCheck: New page: Map Check
+[2019.02.19-06.01.14:183][656]LightingResults: New page: Lighting Build
+[2019.02.19-06.01.14:212][656]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.19-06.01.14:267][656]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.19-06.01.14:267][656]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2019.02.19-06.01.14:267][656]LogFileHelpers: Loading map 'assetTest' took 0.086
+[2019.02.19-06.02.02:649][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Burst_M" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Burst_M.uasset" SILENT=true
+[2019.02.19-06.02.02:676][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Burst_MA5D7228C40CFB2B443A7C9BAB0DA9D84.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Burst_M.uasset'
+[2019.02.19-06.02.02:905][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Explosion_SubUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Explosion_SubUV.uasset" SILENT=true
+[2019.02.19-06.02.02:965][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Explosion_SubUV6FA5D7F34E7881E1D935BEA7D8AF500C.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Explosion_SubUV.uasset'
+[2019.02.19-06.02.03:376][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Fire_SubUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Fire_SubUV.uasset" SILENT=true
+[2019.02.19-06.02.03:418][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Fire_SubUVBD6796C1407E3FBC96C2EAA675EE1D78.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Fire_SubUV.uasset'
+[2019.02.19-06.02.03:640][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Fire_Tiled_D" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Fire_Tiled_D.uasset" SILENT=true
+[2019.02.19-06.02.03:679][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Fire_Tiled_D6D0BD4324DC62C4383EA508416DBEB86.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Fire_Tiled_D.uasset'
+[2019.02.19-06.02.03:921][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Smoke_SubUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Smoke_SubUV.uasset" SILENT=true
+[2019.02.19-06.02.03:968][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Smoke_SubUV42429FBF447EA294687CF3AF4F822AC3.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Smoke_SubUV.uasset'
+[2019.02.19-06.02.04:314][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Smoke_Tiled_D" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Smoke_Tiled_D.uasset" SILENT=true
+[2019.02.19-06.02.04:331][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Smoke_Tiled_D91CC01604C55A2549063FA8EB875EB21.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Smoke_Tiled_D.uasset'
+[2019.02.19-06.02.04:523][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Textures/T_Water_N" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Water_N.uasset" SILENT=true
+[2019.02.19-06.02.04:563][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/T_Water_N7DAE753B4FEAC3CE6AD965A8C5A0EBBB.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Textures/T_Water_N.uasset'
+[2019.02.19-06.02.06:229][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Burst" FILE="D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Burst.uasset" SILENT=true
+[2019.02.19-06.02.06:278][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Burst4BB67FB84DC056505ED0F4AF2694C6A1.tmp' to 'D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Burst.uasset'
+[2019.02.19-06.02.06:316][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_explosion_subUV" FILE="D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" SILENT=true
+[2019.02.19-06.02.06:355][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_explosion_subUV6492D60C489C290FDEBC3F93310F2E26.tmp' to 'D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset'
+[2019.02.19-06.02.06:387][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Fire_SubUV" FILE="D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" SILENT=true
+[2019.02.19-06.02.06:412][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Fire_SubUVE9A8C016441ACE8FA874D1BEEBB71A7F.tmp' to 'D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset'
+[2019.02.19-06.02.06:440][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_smoke_subUV" FILE="D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" SILENT=true
+[2019.02.19-06.02.06:462][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_smoke_subUV2DCA9390487F5DE4CF14719C93D7B43E.tmp' to 'D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset'
+[2019.02.19-06.02.06:499][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Materials/M_Heat_Distortion" FILE="D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" SILENT=true
+[2019.02.19-06.02.06:551][313]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Heat_Distortion0AE9A9F44BA352B9D16CD986AA0774A7.tmp' to 'D:/NICK/FinalProject_4710n/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset'
+[2019.02.19-06.02.45:869][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/P_Steam_Lit" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Steam_Lit.uasset" SILENT=true
+[2019.02.19-06.02.45:899][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/P_Steam_Lit1323223B4B09162BCFAB64B87E40277E.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Steam_Lit.uasset'
+[2019.02.19-06.02.46:138][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/P_Explosion" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Explosion.uasset" SILENT=true
+[2019.02.19-06.02.46:198][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/P_ExplosionA254FB674D0A30E94DAD068369015DBA.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Explosion.uasset'
+[2019.02.19-06.02.46:370][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/P_Fire" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Fire.uasset" SILENT=true
+[2019.02.19-06.02.46:424][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/P_Fire83F858B04CD80965C03AEA95EABD17D8.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Fire.uasset'
+[2019.02.19-06.02.46:646][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/P_Smoke" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Smoke.uasset" SILENT=true
+[2019.02.19-06.02.46:665][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/P_Smoke286359D3435FD5FCAF3CDCB0D115037D.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/P_Smoke.uasset'
+[2019.02.19-06.02.48:379][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_Radial_Gradient" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Radial_Gradient.uasset" SILENT=true
+[2019.02.19-06.02.48:393][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Radial_Gradient2C0C152E457435F0C47419B80AA632A7.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Radial_Gradient.uasset'
+[2019.02.19-06.02.48:554][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_radial_ramp" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_radial_ramp.uasset" SILENT=true
+[2019.02.19-06.02.48:569][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_radial_ramp64CCE62747008F8B85EC1AB46EA286E8.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_radial_ramp.uasset'
+[2019.02.19-06.02.48:769][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/m_flare_01" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/m_flare_01.uasset" SILENT=true
+[2019.02.19-06.02.48:790][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/m_flare_01077336214B10971D0166F6A8759B4ED7.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/m_flare_01.uasset'
+[2019.02.19-06.02.49:001][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_Heat_Distortion" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Heat_Distortion.uasset" SILENT=true
+[2019.02.19-06.02.49:027][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Heat_DistortionD7146F9C417D389FAD5D0BA4ADFF270F.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Heat_Distortion.uasset'
+[2019.02.19-06.02.49:207][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_smoke_subUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_smoke_subUV.uasset" SILENT=true
+[2019.02.19-06.02.49:223][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_smoke_subUVE836DC51424BE2C1ACA295A5946EE114.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_smoke_subUV.uasset'
+[2019.02.19-06.02.49:389][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_Fire_SubUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Fire_SubUV.uasset" SILENT=true
+[2019.02.19-06.02.49:415][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_Fire_SubUVFBDB9AB1457BFA53152568AB8F59B557.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Fire_SubUV.uasset'
+[2019.02.19-06.02.49:641][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_explosion_subUV" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_explosion_subUV.uasset" SILENT=true
+[2019.02.19-06.02.49:665][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_explosion_subUVF45A86094FAA25096473A0AD8EF3B58E.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_explosion_subUV.uasset'
+[2019.02.19-06.02.49:856][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Particles/Materials/M_Burst" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Burst.uasset" SILENT=true
+[2019.02.19-06.02.49:890][771]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BurstA2E41D0E4D4C73A8A0A834B6AD738C70.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Particles/Materials/M_Burst.uasset'
+[2019.02.19-06.03.47:392][329]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Fire)
+[2019.02.19-06.03.48:551][463]Cmd: DELETE
+[2019.02.19-06.03.48:551][463]Cmd: ACTOR DELETE
+[2019.02.19-06.03.48:554][463]LogEditorActor: Deleted Actor: Emitter
+[2019.02.19-06.03.48:581][463]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.02.19-06.03.50:232][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.05.19:239][357]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-06.05.29:951][614]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/pyroclast01.pyroclast01
+[2019.02.19-06.05.30:363][614]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.19-06.05.31:412][614]LogRenderer: Reallocating scene render targets to support 1288x976 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-06.05.33:593][850]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.19-06.05.56:416][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.06.08:406][645]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.141 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.19-06.07.35:506][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.07.40:630][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.07.43:350][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.07.56:370][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.10.40:789][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.10.47:248][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.10.52:543][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.10.56:041][385]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.10.58:136][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.11.38:277][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.11.38:348][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Maps/assetTest_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.19-06.11.38:566][241]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest_Auto1728959BF47EA1F634E230D85DAED9212.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Maps/assetTest_Auto1.umap'
+[2019.02.19-06.11.38:569][241]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/assetTest' took 0.267
+[2019.02.19-06.11.38:570][241]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.267
+[2019.02.19-06.11.38:572][241]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/VolcanoLevel/pyroclast01] ([1] browsable assets)...
+[2019.02.19-06.11.38:583][241]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/VolcanoLevel/pyroclast01.pyroclast01]
+[2019.02.19-06.11.38:583][241]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/VolcanoLevel/pyroclast01]
+[2019.02.19-06.11.38:608][241]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/pyroclast01_Auto1B2D8934040E27AA139B11A899F03F786.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Blueprints/VolcanoLevel/pyroclast01_Auto1.uasset'
+[2019.02.19-06.11.38:608][241]LogFileHelpers: Auto-saving content packages took 0.037
+[2019.02.19-06.12.01:173][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.12.01:323][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast01" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast01.uasset" SILENT=true
+[2019.02.19-06.12.01:341][225]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/pyroclast010C5367C44994F6B4D1CA65B14405697D.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast01.uasset'
+[2019.02.19-06.12.13:701][346]LogSlate: Window 'pyroclast01' being destroyed
+[2019.02.19-06.12.13:704][346]LogSlate: Window 'pyroclast01' being destroyed
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.pyroclast:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.SKEL_pyroclast_C' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.pyroclast_C' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.pyroclast:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.pyroclast:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:037][909]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/pyroclast.pyroclast:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast01.PackageMetaData'
+[2019.02.19-06.12.36:064][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset" SILENT=true
+[2019.02.19-06.12.36:082][909]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/pyroclastD114BCE4450CD9A744F5E28F5BDF73FF.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset'
+[2019.02.19-06.12.36:892][909]SourceControl: rm 'Content/Blueprints/VolcanoLevel/pyroclast01.uasset'
+[2019.02.19-06.12.42:286][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest" FILE="D:/NICK/FinalProject_4710n/Content/Maps/assetTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-06.12.42:487][524]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest0DE546694E2335021A43FEB6646BF6EF.tmp' to 'D:/NICK/FinalProject_4710n/Content/Maps/assetTest.umap'
+[2019.02.19-06.12.42:612][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest_BuiltData" FILE="D:/NICK/FinalProject_4710n/Content/Maps/assetTest_BuiltData.uasset" SILENT=true
+[2019.02.19-06.12.42:646][524]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest_BuiltDataD09B8DC5402BAB4672F65D88C83BD91C.tmp' to 'D:/NICK/FinalProject_4710n/Content/Maps/assetTest_BuiltData.uasset'
+[2019.02.19-06.13.05:788][103]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-06.13.09:750][561]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/volcano.volcano
+[2019.02.19-06.13.37:982][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.13.38:039][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (volcano)
+[2019.02.19-06.13.39:033][162]Cmd: DELETE
+[2019.02.19-06.13.39:033][162]Cmd: ACTOR DELETE
+[2019.02.19-06.13.39:035][162]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.19-06.13.39:068][162]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.02.19-06.13.40:434][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pyroclast02)
+[2019.02.19-06.13.41:112][358]Cmd: DELETE
+[2019.02.19-06.13.41:112][358]Cmd: ACTOR DELETE
+[2019.02.19-06.13.41:114][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.19-06.13.41:145][358]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.02.19-06.13.41:761][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pyroclast01)
+[2019.02.19-06.13.42:080][447]Cmd: DELETE
+[2019.02.19-06.13.42:080][447]Cmd: ACTOR DELETE
+[2019.02.19-06.13.42:082][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.19-06.13.42:115][447]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.02.19-06.13.42:720][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.13.50:614][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.14.07:148][627]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.14.14:962][261]LogEditorViewport: Clicking on Actor (LMB): pyroclast_C (pyroclast2)
+[2019.02.19-06.14.32:419][661]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.19-06.14.35:539][922]LogEditorViewport: Clicking on Actor (LMB): volcano_C (volcano)
+[2019.02.19-06.14.37:987][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.14.45:173][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.14.45:256][736]LogEditorViewport: Clicking on Actor (LMB): pyroclast_C (pyroclast2)
+[2019.02.19-06.14.52:555][368]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.14.54:521][529]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.15.05:499][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.15.06:905][615]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/pyroclast.pyroclast
+[2019.02.19-06.15.07:256][615]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.19-06.15.27:627][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.15.27:773][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset" SILENT=true
+[2019.02.19-06.15.27:830][340]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/pyroclastEB84E9B34B2C8F1621FEA6A4358718DF.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset'
+[2019.02.19-06.15.32:685][741]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.15.34:487][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.15.40:806][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.16.08:525][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.16.24:348][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.16.24:491][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.19-06.16.24:516][132]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/volcano1A0B5EE241A84A4AFC8261B95FF87B8D.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.19-06.16.55:905][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.19-06.16.55:941][983]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/volcano52F583064B37E16338FBEA82C1984AC6.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.19-06.16.59:842][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.17.11:836][434]LogSlate: Window 'volcano' being destroyed
+[2019.02.19-06.17.11:839][434]LogSlate: Window 'volcano' being destroyed
+[2019.02.19-06.17.11:840][434]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.19-06.17.20:107][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest" FILE="D:/NICK/FinalProject_4710n/Content/Maps/assetTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.19-06.17.20:336][398]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest15C3D58B408028A6DA4F74804BFDD642.tmp' to 'D:/NICK/FinalProject_4710n/Content/Maps/assetTest.umap'
+[2019.02.19-06.17.20:473][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest_BuiltData" FILE="D:/NICK/FinalProject_4710n/Content/Maps/assetTest_BuiltData.uasset" SILENT=true
+[2019.02.19-06.17.20:493][398]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest_BuiltData7A38E0F345E9DD9E8C08338955F249A4.tmp' to 'D:/NICK/FinalProject_4710n/Content/Maps/assetTest_BuiltData.uasset'
+[2019.02.19-06.24.02:813][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.24.37:253][638]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Programming/UnrealArchitecture/Actors/Components/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2019.02.19-06.25.13:703][638]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.19-06.25.22:556][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/fireHose.fireHose
+[2019.02.19-06.25.24:376][804]LogSlate: Window 'fireHose*' being destroyed
+[2019.02.19-06.25.24:379][804]LogSlate: Window 'fireHose*' being destroyed
+[2019.02.19-06.27.20:408][330]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/assetTest' took 0.038
+[2019.02.19-06.27.20:409][330]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/fireHose] ([1] browsable assets)...
+[2019.02.19-06.27.20:409][330]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/fireHose]
+[2019.02.19-06.27.20:409][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/fireHose" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Blueprints/Items/fireHose_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.27.20:420][330]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose_Auto2B0AA4C6F414DAF85D0876A8F8818BFF5.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Blueprints/Items/fireHose_Auto2.uasset'
+[2019.02.19-06.27.20:420][330]LogFileHelpers: Auto-saving content packages took 0.012
+[2019.02.19-06.41.23:964][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.41.44:061][749]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/School 2019/Game Production/Shear Chaos/exports/items/fireHose.fbx)
+[2019.02.19-06.41.44:072][749]LogFbx: Loading FBX Scene from F:/School 2019/Game Production/Shear Chaos/exports/items/fireHose.fbx
+[2019.02.19-06.41.44:078][749]LogFbx: FBX Scene Loaded Succesfully
+[2019.02.19-06.41.46:760][749]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.02.19-06.41.47:069][749]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.41.47:116][749]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.41.47:116][749]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.41.47:116][749]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.41.47:118][749]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.41.47:136][749]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.41.47:156][749]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.19-06.41.47:156][749]LogStaticMesh: Building static mesh fireHose...
+[2019.02.19-06.41.47:197][749]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/fireHose.fireHose
+[2019.02.19-06.41.48:143][836]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.19-06.41.49:926][995]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.19-06.41.50:170][ 16]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.41.51:720][149]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.41.53:157][283]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/fireHose.fireHose
+[2019.02.19-06.41.53:708][283]LogRenderer: Reallocating scene render targets to support 1528x996 Format 10 NumSamples 1 (Frame:1).
+[2019.02.19-06.41.53:785][284]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/assetTest' took 0.034
+[2019.02.19-06.41.53:786][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/fireHose] ([1] browsable assets)...
+[2019.02.19-06.41.53:797][284]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/fireHose.fireHose]
+[2019.02.19-06.41.53:797][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/fireHose]
+[2019.02.19-06.41.53:797][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/fireHose" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/fireHose_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.41.53:814][284]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose_Auto322ECE1574F9C1170FCCE9897D764224B.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/fireHose_Auto3.uasset'
+[2019.02.19-06.41.53:815][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_OldBrass] ([1] browsable assets)...
+[2019.02.19-06.41.53:824][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_OldBrass.M_OldBrass]
+[2019.02.19-06.41.53:824][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_OldBrass]
+[2019.02.19-06.41.53:824][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_OldBrass" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_OldBrass_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.41.53:840][284]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_OldBrass_Auto371B269194597D0BE5603C88BA07341F8.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_OldBrass_Auto3.uasset'
+[2019.02.19-06.41.53:840][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_BlackRubber] ([1] browsable assets)...
+[2019.02.19-06.41.53:849][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_BlackRubber.M_BlackRubber]
+[2019.02.19-06.41.53:849][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_BlackRubber]
+[2019.02.19-06.41.53:849][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BlackRubber" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_BlackRubber_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.41.53:864][284]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackRubber_Auto30901B5A34316EAF539A994ADDF82C12B.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_BlackRubber_Auto3.uasset'
+[2019.02.19-06.41.53:865][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/M_BlackPlastic] ([1] browsable assets)...
+[2019.02.19-06.41.53:878][284]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/M_BlackPlastic.M_BlackPlastic]
+[2019.02.19-06.41.53:878][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/M_BlackPlastic]
+[2019.02.19-06.41.53:878][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BlackPlastic" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_BlackPlastic_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.41.53:904][284]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackPlastic_Auto371F26B1F4B758D7B7F368EA7B6E6288D.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Assets/M_BlackPlastic_Auto3.uasset'
+[2019.02.19-06.41.53:905][284]LogFileHelpers: Auto-saving content packages took 0.118
+[2019.02.19-06.42.01:586][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/fireHose.uasset" SILENT=true
+[2019.02.19-06.42.01:602][999]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose9B0C78E542D35256BD3096953FFCE43B.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/fireHose.uasset'
+[2019.02.19-06.42.02:586][ 76]LogSlate: Window 'fireHose' being destroyed
+[2019.02.19-06.42.02:589][ 76]LogSlate: Window 'fireHose' being destroyed
+[2019.02.19-06.42.04:454][273]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_OldBrass.M_OldBrass
+[2019.02.19-06.42.04:457][273]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.04:548][273]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.04:562][273]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.04:588][273]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.04:588][273]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.04:588][273]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.04:588][273]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.04:602][273]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.42.04:796][273]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.04:797][273]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.04:837][275]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.04:837][275]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.04:967][282]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.04:984][283]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.04:999][284]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.05:015][285]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.05:161][294]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.05:250][299]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.05:426][310]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.05:442][311]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.05:584][320]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.05:650][324]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.05:697][327]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.05:882][338]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.05:899][339]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.06:039][348]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.06:053][349]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.08:043][526]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.19-06.42.08:043][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.19-06.42.08:043][526]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.42.08:043][526]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.42.14:745][133]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.14:789][134]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.14:789][134]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.14:789][134]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.14:789][134]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.14:993][147]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.14:993][147]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.15:007][148]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.15:007][148]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.15:144][157]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.15:173][159]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.15:187][160]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.15:187][160]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.15:306][168]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.15:436][176]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.15:577][185]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.15:652][190]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.15:698][193]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.15:818][201]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.15:885][205]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.16:025][215]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.16:056][217]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.18:309][435]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.18:321][435]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.18:321][435]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.18:321][435]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.18:321][435]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.18:552][451]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.18:568][452]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.18:582][453]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.18:582][453]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.18:724][462]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.18:725][462]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.18:739][463]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.18:751][464]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.18:870][472]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.18:984][479]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.19:155][490]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.19:171][491]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.19:265][497]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.19:392][506]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.19:392][506]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.19:560][518]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.19:601][521]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.20:565][617]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.19-06.42.20:565][617]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.42.20:565][617]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.42.20:565][617]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.42.34:541][939]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.34:564][940]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.34:564][940]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.34:564][940]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.34:564][940]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.34:773][955]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.34:788][956]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.34:803][957]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.34:818][958]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.34:929][965]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.34:943][966]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.34:957][967]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.34:971][968]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.35:083][976]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.35:202][983]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.35:372][994]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.35:407][996]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.35:490][  2]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.35:586][  9]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.35:613][ 11]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.35:784][ 23]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.35:797][ 24]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.36:309][ 71]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.36:332][ 72]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.36:332][ 72]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.36:332][ 72]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.36:332][ 72]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.36:542][ 86]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.36:557][ 87]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.36:574][ 88]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.36:589][ 89]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.36:703][ 96]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.36:717][ 97]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.36:731][ 98]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.36:745][ 99]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.36:872][107]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.36:973][113]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.37:143][124]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.37:158][125]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.37:264][132]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.37:371][139]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.37:387][140]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.37:601][154]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.37:613][155]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.38:422][232]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.38:447][233]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.38:447][233]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.38:447][233]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.38:447][233]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.38:639][245]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.38:679][247]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.38:697][247]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.38:697][247]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.38:798][254]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.38:842][257]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.38:855][258]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.38:855][258]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.38:960][265]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.39:112][275]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.39:249][284]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.39:295][287]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.39:358][291]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.39:492][300]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.39:508][301]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.39:730][315]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.39:763][317]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.40:067][339]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.42.40:067][339]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.42.40:067][339]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.42.40:067][339]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.42.46:406][932]LogMaterialEditor: Saving and Compiling material M_OldBrass
+[2019.02.19-06.42.48:256][932]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.48:318][932]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.48:318][932]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.48:318][932]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.48:318][932]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.48:335][932]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.48:356][932]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.19-06.42.48:415][932]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_OldBrass, compiling. 
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.49:508][932]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.49:510][932]TextureStreamingBuild: Display: Compiling optional shaders took 1.104 seconds.
+[2019.02.19-06.42.51:869][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_OldBrass" FILE="D:/NICK/FinalProject_4710n/Content/Assets/M_OldBrass.uasset" SILENT=true
+[2019.02.19-06.42.51:905][932]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_OldBrass01C5F4AF45D64CA84312C79EB376D7FD.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/M_OldBrass.uasset'
+[2019.02.19-06.42.53:481][ 47]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_BlackRubber.M_BlackRubber
+[2019.02.19-06.42.53:484][ 47]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.42.53:567][ 47]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.42.53:585][ 47]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.42.53:617][ 47]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.53:617][ 47]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.53:617][ 47]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.53:617][ 47]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.53:630][ 47]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.42.53:820][ 49]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.53:837][ 50]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.53:837][ 50]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.53:869][ 52]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.53:978][ 59]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.53:993][ 60]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.53:993][ 60]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.54:008][ 61]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.54:201][ 69]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.54:313][ 75]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.54:477][ 85]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.54:493][ 86]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.54:608][ 93]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.54:720][100]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.54:753][102]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.54:926][114]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.54:940][115]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.55:052][123]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.55:084][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.42.55:587][164]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.19-06.42.55:587][164]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.19-06.42.55:587][164]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.42.55:587][164]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.42.58:320][410]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.42.58:351][411]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.42.58:351][411]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.42.58:351][411]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.42.58:351][411]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.42.58:569][426]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.42.58:584][427]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.42.58:584][427]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.42.58:596][428]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.42.58:723][436]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.42.58:738][437]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.42.58:754][438]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.42.58:769][439]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.42.58:889][447]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.42.59:017][455]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.42.59:127][462]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.42.59:167][465]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.42.59:252][471]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.42.59:338][477]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.42.59:394][481]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.42.59:544][491]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.42.59:561][493]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.00:035][534]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.00:061][534]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.00:061][534]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.00:061][534]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.00:061][534]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.00:278][548]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.00:279][548]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.00:293][549]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.00:308][550]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.00:442][558]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.00:456][559]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.00:471][560]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.00:485][561]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.00:601][569]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.00:717][577]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.00:831][585]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.00:891][589]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.00:940][592]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.01:042][598]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.01:077][601]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.01:271][614]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.01:286][615]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.01:609][641]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.43.01:609][641]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.43.01:609][641]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.01:610][641]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.02:767][755]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.02:791][756]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.02:791][756]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.02:791][756]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.02:791][756]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.03:004][770]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.03:004][770]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.03:019][771]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.03:035][772]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.03:172][780]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.03:172][780]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.03:186][781]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.03:200][782]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.03:333][790]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.03:436][796]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.03:599][807]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.03:613][808]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.03:689][813]LogMaterialEditor: Saving and Compiling material M_BlackRubber
+[2019.02.19-06.43.04:154][813]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.04:154][813]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.04:154][813]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.04:154][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.04:154][813]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.04:172][813]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.04:209][813]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.04:209][813]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.04:209][813]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.04:223][813]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.04:244][813]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.04:260][813]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.04:306][813]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BlackRubber, compiling. 
+[2019.02.19-06.43.05:399][813]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.05:400][813]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.05:401][813]TextureStreamingBuild: Display: Compiling optional shaders took 1.106 seconds.
+[2019.02.19-06.43.07:684][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BlackRubber" FILE="D:/NICK/FinalProject_4710n/Content/Assets/M_BlackRubber.uasset" SILENT=true
+[2019.02.19-06.43.07:700][813]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackRubberF7AF51044F34EF3549A62491EBBED964.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/M_BlackRubber.uasset'
+[2019.02.19-06.43.07:867][813]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.43.07:867][813]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.43.07:867][813]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.07:867][813]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.15:883][531]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_BlackPlastic.M_BlackPlastic
+[2019.02.19-06.43.15:886][531]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.15:967][531]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.15:980][531]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.15:994][531]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.15:994][531]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.15:994][531]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.15:994][531]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.16:023][531]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.43.16:208][533]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.16:229][534]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.16:229][534]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.16:247][535]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.16:366][542]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.16:382][543]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.16:396][544]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.16:409][545]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.16:535][553]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.16:638][559]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.16:794][568]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.16:827][570]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.16:938][577]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.17:070][583]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.17:070][583]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.17:330][597]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.17:330][597]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.17:444][605]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.17:460][606]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.19:838][824]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.19:869][825]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.19:869][825]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.19:869][825]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.19:869][825]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.20:068][838]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.20:084][839]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.20:097][840]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.20:097][840]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.20:250][850]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.20:250][850]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.20:265][851]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.20:281][852]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.20:403][860]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.20:524][867]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.20:682][877]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.20:699][878]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.20:808][886]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.20:906][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.20:921][894]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.21:096][906]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.21:123][908]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.21:466][931]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.19-06.43.21:466][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.19-06.43.21:466][931]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.21:466][931]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.23:200][101]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.23:224][102]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.23:225][102]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.23:225][102]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.23:225][102]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.23:419][113]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.23:465][116]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.23:480][117]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.23:480][117]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.23:590][124]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.23:605][125]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.23:634][127]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.23:649][128]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.23:741][134]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.23:866][140]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.23:972][147]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.24:026][151]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.24:108][157]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.24:203][164]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.24:247][167]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.24:428][178]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.24:428][178]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.25:270][248]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.02.19-06.43.25:270][248]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.02.19-06.43.25:270][248]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.25:270][248]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.27:966][501]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.27:977][501]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.27:977][501]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.27:977][501]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.27:977][501]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.28:195][514]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.28:212][515]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.28:226][516]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.28:226][516]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.28:360][525]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.28:375][526]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.28:389][527]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.28:419][529]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.28:518][536]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.28:643][544]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.28:800][554]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.28:815][555]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.28:935][563]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.29:029][569]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.29:078][572]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.29:258][583]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.29:258][583]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.29:325][588]LogMaterialEditor: Saving and Compiling material M_BlackPlastic
+[2019.02.19-06.43.29:770][588]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.29:817][588]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.29:817][588]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.29:817][588]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.29:817][588]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.29:836][588]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.29:855][588]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.19-06.43.29:918][588]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BlackPlastic, compiling. 
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.31:020][588]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.31:022][588]TextureStreamingBuild: Display: Compiling optional shaders took 1.111 seconds.
+[2019.02.19-06.43.33:224][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BlackPlastic" FILE="D:/NICK/FinalProject_4710n/Content/Assets/M_BlackPlastic.uasset" SILENT=true
+[2019.02.19-06.43.33:239][588]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackPlastic288ABDDE4E1FAAB354CF4EB69A70A404.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/M_BlackPlastic.uasset'
+[2019.02.19-06.43.33:386][588]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.43.33:386][588]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.43.33:386][588]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.33:386][588]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.40:124][225]LogSlate: Window 'M_BlackPlastic' being destroyed
+[2019.02.19-06.43.40:127][225]LogSlate: Window 'M_BlackPlastic' being destroyed
+[2019.02.19-06.43.41:670][352]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/M_BlackRubber.M_BlackRubber
+[2019.02.19-06.43.41:672][352]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.41:756][352]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.41:768][352]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.41:768][352]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.41:768][352]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.41:768][352]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.41:770][352]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.41:815][352]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.43.41:971][352]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.41:971][352]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.43.41:971][352]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.42:012][354]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.42:171][362]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.42:188][363]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.42:203][364]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.42:219][365]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.42:344][372]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.42:360][373]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.42:375][374]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.42:389][375]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.42:500][382]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.42:628][389]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.42:767][397]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.42:801][399]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.42:899][405]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.43:016][412]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.43:064][415]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.43:234][425]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.19-06.43.43:249][426]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.19-06.43.43:393][435]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.43:422][435]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.19-06.43.43:642][448]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.43.43:642][448]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.43.43:642][448]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.43:642][448]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.45:440][611]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.45:460][611]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.45:460][611]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.45:460][611]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.45:460][611]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.45:460][611]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.43.45:695][624]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.45:695][624]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.45:711][625]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.45:711][625]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.45:854][633]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.45:855][633]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.45:871][634]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.45:885][635]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.45:999][642]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.46:163][652]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.46:271][659]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.46:300][661]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.46:319][662]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.46:345][662]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.02.19-06.43.46:373][662]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.19-06.43.46:394][663]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.46:493][669]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.43.46:545][672]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.19-06.43.46:641][678]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.19-06.43.46:721][683]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.19-06.43.46:736][684]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.19-06.43.46:772][686]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.19-06.43.46:806][688]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.19-06.43.46:881][692]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.19-06.43.46:909][694]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.19-06.43.46:940][696]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.19-06.43.46:954][697]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.47:080][705]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.19-06.43.47:141][709]LogMaterialEditor: Saving and Compiling material M_BlackRubber
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.19-06.43.47:613][709]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.19-06.43.47:633][709]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2019.02.19-06.43.47:697][709]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.47:720][709]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.19-06.43.47:734][709]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.47:773][709]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.19-06.43.47:787][709]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_BlackRubber, compiling. 
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.19-06.43.49:041][709]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.19-06.43.49:043][709]TextureStreamingBuild: Display: Compiling optional shaders took 1.265 seconds.
+[2019.02.19-06.43.49:079][709]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.19-06.43.51:238][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/M_BlackRubber" FILE="D:/NICK/FinalProject_4710n/Content/Assets/M_BlackRubber.uasset" SILENT=true
+[2019.02.19-06.43.51:262][709]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackRubber6917D4EE4F10774C6405E88F820013CE.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/M_BlackRubber.uasset'
+[2019.02.19-06.43.51:278][709]MaterialEditorStats: Base pass shader: 104 instructions
+[2019.02.19-06.43.51:278][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2019.02.19-06.43.51:278][709]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.19-06.43.51:278][709]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.19-06.43.53:522][914]LogSlate: Window 'M_BlackRubber' being destroyed
+[2019.02.19-06.43.53:527][914]LogSlate: Window 'M_BlackRubber' being destroyed
+[2019.02.19-06.44.06:907][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/fireHose.fireHose
+[2019.02.19-06.44.20:343][942]LogSlate: Window 'fireHose*' being destroyed
+[2019.02.19-06.44.20:347][942]LogSlate: Window 'fireHose*' being destroyed
+[2019.02.19-06.44.21:311][ 43]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/fireHose.fireHose
+[2019.02.19-06.44.29:351][913]LogSlate: Window 'fireHose*' being destroyed
+[2019.02.19-06.44.29:449][913]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Items/fireHose.fireHose
+[2019.02.19-06.44.59:794][488]LogMetaData: Removing '/Game/Assets/Meshes/fireHose.fireHose' ref from Metadata '/Game/Assets/fireHose.PackageMetaData'
+[2019.02.19-06.44.59:818][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset" SILENT=true
+[2019.02.19-06.44.59:834][488]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose767DAE05418E4FD452FBD7AD1F636C61.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset'
+[2019.02.19-06.45.00:600][488]SourceControl: rm 'Content/Assets/fireHose.uasset'
+[2019.02.19-06.45.16:608][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/M_BlackPlastic" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_BlackPlastic.uasset" SILENT=true
+[2019.02.19-06.45.16:624][776]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackPlastic87718B414BF8F0FEF6D576974FE59490.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_BlackPlastic.uasset'
+[2019.02.19-06.45.16:802][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/M_BlackRubber" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_BlackRubber.uasset" SILENT=true
+[2019.02.19-06.45.16:817][776]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackRubberC99705014120BD3A7FE8A990B3FEC5D6.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_BlackRubber.uasset'
+[2019.02.19-06.45.16:994][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/M_OldBrass" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_OldBrass.uasset" SILENT=true
+[2019.02.19-06.45.17:010][776]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_OldBrass093935904095BE79BCCCBA9A2688E6D0.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/M_OldBrass.uasset'
+[2019.02.19-06.45.18:221][776]SourceControl: rm 'Content/Assets/M_BlackPlastic.uasset'
+[2019.02.19-06.45.18:221][776]SourceControl: rm 'Content/Assets/M_BlackRubber.uasset'
+[2019.02.19-06.45.18:221][776]SourceControl: rm 'Content/Assets/M_OldBrass.uasset'
+[2019.02.19-06.45.18:285][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset" SILENT=true
+[2019.02.19-06.45.18:302][776]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose9E0D32BA4F5B29944FD5BC9A51666B5A.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset'
+[2019.02.19-06.45.23:825][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_BlackPlastic" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_BlackPlastic.uasset" SILENT=true
+[2019.02.19-06.45.23:840][182]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackPlastic406AE5DD4E6D5DD94ADE10A57536B409.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_BlackPlastic.uasset'
+[2019.02.19-06.45.23:982][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_BlackRubber" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_BlackRubber.uasset" SILENT=true
+[2019.02.19-06.45.23:998][182]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_BlackRubber7C9366B54BBE157975BBFB9593E2F3BB.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_BlackRubber.uasset'
+[2019.02.19-06.45.24:164][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/M_OldBrass" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_OldBrass.uasset" SILENT=true
+[2019.02.19-06.45.24:180][182]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/M_OldBrass6BF178D748E117A68BDD8C9F37901317.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Materials/M_OldBrass.uasset'
+[2019.02.19-06.45.25:304][182]SourceControl: rm 'Content/Assets/Meshes/M_BlackPlastic.uasset'
+[2019.02.19-06.45.25:304][182]SourceControl: rm 'Content/Assets/Meshes/M_BlackRubber.uasset'
+[2019.02.19-06.45.25:304][182]SourceControl: rm 'Content/Assets/Meshes/M_OldBrass.uasset'
+[2019.02.19-06.45.25:367][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset" SILENT=true
+[2019.02.19-06.45.25:378][182]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHoseBBED267A4912D9CCD24C62ABFC142329.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/fireHose.uasset'
+[2019.02.19-06.45.34:477][884]LogMetaData: Removing '/Game/Assets/Meshes/items/fireHose.fireHose' ref from Metadata '/Game/Assets/Meshes/fireHose.PackageMetaData'
+[2019.02.19-06.45.34:500][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/items/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/items/fireHose.uasset" SILENT=true
+[2019.02.19-06.45.34:517][884]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHoseC5DC84B44453074B0C61BF8AAB703968.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/items/fireHose.uasset'
+[2019.02.19-06.45.35:217][884]SourceControl: rm 'Content/Assets/Meshes/fireHose.uasset'
+[2019.02.19-06.45.53:074][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/default/1M_Cube" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/1M_Cube.uasset" SILENT=true
+[2019.02.19-06.45.53:097][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/1M_Cube0506C3E44E40AE371D48699624102E66.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/1M_Cube.uasset'
+[2019.02.19-06.45.53:264][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/default/1M_Cube_Chamfer" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/1M_Cube_Chamfer.uasset" SILENT=true
+[2019.02.19-06.45.53:280][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/1M_Cube_Chamfer7365EC6C492F0A9208548EB4A79A9B56.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/1M_Cube_Chamfer.uasset'
+[2019.02.19-06.45.53:468][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/default/CubeMaterial" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/CubeMaterial.uasset" SILENT=true
+[2019.02.19-06.45.53:484][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/CubeMaterial2623A4214EE05D43CD45E581ED5366E6.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/CubeMaterial.uasset'
+[2019.02.19-06.45.53:628][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/default/TemplateFloor" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/TemplateFloor.uasset" SILENT=true
+[2019.02.19-06.45.53:644][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/TemplateFloor9E00BBA4461E43369B2730825C54515A.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/default/TemplateFloor.uasset'
+[2019.02.19-06.45.55:043][347]SourceControl: rm 'Content/Assets/Meshes/1M_Cube.uasset'
+[2019.02.19-06.45.55:043][347]SourceControl: rm 'Content/Assets/Meshes/1M_Cube_Chamfer.uasset'
+[2019.02.19-06.45.55:043][347]SourceControl: rm 'Content/Assets/Meshes/CubeMaterial.uasset'
+[2019.02.19-06.45.55:043][347]SourceControl: rm 'Content/Assets/Meshes/TemplateFloor.uasset'
+[2019.02.19-06.45.55:122][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2019.02.19-06.45.55:132][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/1M_Cube6E5DE06744488C9A3070CFB696563BA0.tmp' to 'D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/1M_Cube.uasset'
+[2019.02.19-06.45.55:135][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Chamfer" FILE="D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2019.02.19-06.45.55:144][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/1M_Cube_Chamfer48AAA2744B06FC0D27A572930A04E753.tmp' to 'D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2019.02.19-06.45.55:147][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2019.02.19-06.45.55:156][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/CubeMaterialD25EBCA14CDEF7C548AB0D8827A3BBCC.tmp' to 'D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2019.02.19-06.45.55:159][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2019.02.19-06.45.55:168][347]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/TemplateFloor28C671734A3D2EDCC76CE6A2F775E1F0.tmp' to 'D:/NICK/FinalProject_4710n/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2019.02.19-06.46.09:280][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.46.23:995][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.46.31:639][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.46.31:800][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Blueprints/Items/fireHose.uasset" SILENT=true
+[2019.02.19-06.46.31:821][480]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose021346024436C4CE95DCCE8F40E96FE4.tmp' to 'D:/NICK/FinalProject_4710n/Content/Blueprints/Items/fireHose.uasset'
+[2019.02.19-06.46.34:813][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.46.41:113][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.46.45:513][776]LogTemp: Repeating last play command: Simulate
+[2019.02.19-06.46.45:539][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/assetTest.assetTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest' with GeneratedClass '/Game/Maps/assetTest.assetTest_C' with ClassGeneratedBy '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest'
+[2019.02.19-06.46.45:540][776]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.19-06.46.45:541][776]LogPlayLevel: [PlayLevel] Compiling pyroclast before play...
+[2019.02.19-06.46.45:701][776]LogPlayLevel: [PlayLevel] Compiling volcano before play...
+[2019.02.19-06.46.45:830][776]LogPlayLevel: [PlayLevel] Compiling fireHose before play...
+[2019.02.19-06.46.46:042][776]LogPlayLevel: PlayLevel: Blueprint regeneration took 502 ms (3 blueprints)
+[2019.02.19-06.46.46:042][776]PIE: New page: SIE session: assetTest (Feb 18, 2019, 4:46:46 PM)
+[2019.02.19-06.46.46:054][776]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_assetTest
+[2019.02.19-06.46.46:057][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002965s)
+[2019.02.19-06.46.46:058][776]LogAIModule: Creating AISystem for world assetTest
+[2019.02.19-06.46.46:058][776]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2019.02.19-06.46.46:058][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/assetTest.assetTest to /Game/Maps/UEDPIE_0_assetTest.assetTest (0.003778s)
+[2019.02.19-06.46.46:096][776]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.19-06.46.46:214][776]LogInit: FAudioDevice initialized.
+[2019.02.19-06.46.46:262][776]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.19-06.46.46:278][776]LogWorld: Bringing World /Game/Maps/UEDPIE_0_assetTest.assetTest up for play (max tick rate 0) at 2019.02.18-23.46.46
+[2019.02.19-06.46.46:279][776]LogWorld: Bringing up level for play took: 0.014046
+[2019.02.19-06.46.46:303][776]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.02.19-06.46.46:305][776]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_assetTest 0.697
+[2019.02.19-06.46.46:334][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/assetTest.assetTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest' with GeneratedClass '/Game/Maps/assetTest.assetTest_C' with ClassGeneratedBy '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest'
+[2019.02.19-06.46.47:584][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/assetTest.assetTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest' with GeneratedClass '/Game/Maps/assetTest.assetTest_C' with ClassGeneratedBy '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest'
+[2019.02.19-06.46.47:585][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.46.47:616][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.19-06.46.47:617][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/assetTest.assetTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest' with GeneratedClass '/Game/Maps/assetTest.assetTest_C' with ClassGeneratedBy '/Game/Maps/assetTest.assetTest:PersistentLevel.assetTest'
+[2019.02.19-06.46.47:671][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.19-06.46.47:689][886]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.19-06.46.56:301][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.47.51:999][321]LogEditor: Attempting to add actor of class 'CableActor' to level at -10.00,-770.00,110.00
+[2019.02.19-06.47.52:381][359]LogEditor: Attempting to add actor of class 'CableActor' to level at -240.00,-390.00,20.00
+[2019.02.19-06.47.53:962][535]LogEditor: Attempting to add actor of class 'CableActor' to level at -170.00,-440.00,20.00
+[2019.02.19-06.48.03:845][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.48.56:624][158]LogEditorViewport: Clicking on Actor (context menu): CableActor (CableActor2)
+[2019.02.19-06.48.56:642][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.48.59:079][328]Cmd: DELETE
+[2019.02.19-06.48.59:079][328]Cmd: ACTOR DELETE
+[2019.02.19-06.48.59:083][328]LogEditorActor: Deleted Actor: CableActor
+[2019.02.19-06.48.59:116][328]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.02.19-06.49.06:391][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.49.12:369][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.49.17:590][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.50.06:770][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.53.17:872][  8]LogEditorViewport: Clicking on Actor (LMB): fireHose_C (fireHose)
+[2019.02.19-06.53.24:262][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.53.27:560][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.53.36:679][682]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.53.41:964][151]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.53.45:673][476]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.53.49:248][783]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.53.54:113][193]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.54.36:738][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/assetTest" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Maps/assetTest_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.19-06.54.36:925][763]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/assetTest_Auto48A53A36746D58D65E0E08E9727FCADE8.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Maps/assetTest_Auto4.umap'
+[2019.02.19-06.54.36:935][763]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/assetTest' took 0.261
+[2019.02.19-06.54.36:935][763]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.261
+[2019.02.19-06.54.36:937][763]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/fireHose] ([1] browsable assets)...
+[2019.02.19-06.54.36:962][763]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/fireHose.fireHose]
+[2019.02.19-06.54.36:962][763]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/fireHose]
+[2019.02.19-06.54.36:962][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/fireHose" FILE="D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Blueprints/Items/fireHose_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.02.19-06.54.37:029][763]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose_Auto456C527C14552ED0C7B470F9E000C3A01.tmp' to 'D:/NICK/FinalProject_4710n/Saved/Autosaves/Game/Blueprints/Items/fireHose_Auto4.uasset'
+[2019.02.19-06.54.37:030][763]LogFileHelpers: Auto-saving content packages took 0.093
+[2019.02.19-06.54.45:179][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.54.53:845][534]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/items/fireHose.fireHose
+[2019.02.19-06.55.06:906][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.55.16:765][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.55.16:894][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.19-06.55.16:919][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/items/fireHose" FILE="D:/NICK/FinalProject_4710n/Content/Assets/Meshes/items/fireHose.uasset" SILENT=true
+[2019.02.19-06.55.16:941][766]LogSavePackage: Moving 'D:/NICK/FinalProject_4710n/Saved/fireHose29AB242C4F66B6A08F54598EABB208FE.tmp' to 'D:/NICK/FinalProject_4710n/Content/Assets/Meshes/items/fireHose.uasset'
+[2019.02.19-06.55.17:808][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.56.29:187][773]LogEditorTransaction: Undo Modify Component(s)
+[2019.02.19-06.56.37:515][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.57.12:758][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Start is -90.000000, -400.000000, 120.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: End is -nan(ind), -nan(ind), -nan(ind)
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Query Filter is 1, -257, 0, 10485761
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: QueryTM Trans -90.000000, -400.000000, 120.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: QueryTM Trans 0.000000, 0.000000, 0.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Length 0.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Geometry Type is 0
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Hit at -74.978378, -396.706940, 120.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Hit normal -0.976804, -0.214137, -0.000000
+[2019.02.19-06.57.42:312][768]LogCollision: Warning: Hit flags 7, distance -4.475809
+[2019.02.19-06.57.42:312][768]LogCore: Error: Failed!
+[2019.02.19-06.57.42:323][769]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.19-06.57.43:572][769]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.249 s
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: 
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 988]
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: Nans found on Bounds for Primitive Cable: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=-nan(ind) Y=-nan(ind) Z=-nan(ind), SphereRadius -nan(ind)
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: Stack: 
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa609593cf UE4Editor-Renderer.dll!UnknownFunction []
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa635bc260 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa6351cec9 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa63a73b67 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa63aa9cf2 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:572][769]LogOutputDevice: Error: [Callstack] 0x00007ffa63abc1d1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ffa63634992 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ffa688517d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ffa69172216 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ff6e81a6225 UE4Editor.exe!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ff6e81b596c UE4Editor.exe!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ff6e81b59ea UE4Editor.exe!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ff6e81c48da UE4Editor.exe!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ff6e81c659a UE4Editor.exe!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ffaa6db1fe4 KERNEL32.DLL!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: [Callstack] 0x00007ffaa6f7cb81 ntdll.dll!UnknownFunction []
+[2019.02.19-06.57.43:573][769]LogOutputDevice: Error: 
+[2019.02.19-06.57.43:582][769]LogStats:                SubmitErrorReport -  0.000 s
