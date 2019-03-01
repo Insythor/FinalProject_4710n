@@ -1,0 +1,1395 @@
+﻿Log file open, 02/28/19 16:28:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SheepHerderSimulator
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.856424
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.070s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.28-23.28.50:649][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.28-23.28.50:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:650][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.28-23.28.50:666][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.28-23.28.50:667][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.28-23.28.50:667][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.28-23.28.50:667][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:667][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.28-23.28.50:667][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.28-23.28.50:667][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.28-23.28.50:667][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.28-23.28.50:675][  0]LogHAL: Display: Platform has ~ 16 GB [17115824128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.28-23.28.50:676][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.28-23.28.50:676][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.28-23.28.50:676][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Scalability.ini]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.28-23.28.50:677][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.28-23.28.50:677][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Config/Windows/Engine.ini]
+[2019.02.28-23.28.50:678][  0]LogInit: Computer: INSYTHOR
+[2019.02.28-23.28.50:678][  0]LogInit: User: Tyler
+[2019.02.28-23.28.50:678][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.28-23.28.50:678][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.28-23.28.50:679][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.28-23.28.50:679][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.28-23.28.50:679][  0]LogMemory: Process Physical Memory: 104.55 MB used, 104.55 MB peak
+[2019.02.28-23.28.50:679][  0]LogMemory: Process Virtual Memory: 98.37 MB used, 98.37 MB peak
+[2019.02.28-23.28.50:679][  0]LogMemory: Physical Memory: 3521.51 MB used,  12801.41 MB free, 16322.92 MB total
+[2019.02.28-23.28.50:679][  0]LogMemory: Virtual Memory: 4656.99 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.02.28-23.28.50:778][  0]LogInit: Using OS detected language (en-US).
+[2019.02.28-23.28.50:778][  0]LogInit: Using OS detected locale (en-CA).
+[2019.02.28-23.28.50:781][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.28-23.28.51:221][  0]LogStreaming: Display: Took  0.442s to InitEngineTextLocalization.
+[2019.02.28-23.28.51:221][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.28-23.28.51:280][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.28-23.28.51:280][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.28-23.28.51:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.28-23.28.51:637][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.28-23.28.51:718][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.02.28-23.28.51:718][  0]LogD3D11RHI:       6052/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.02.28-23.28.51:721][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.28-23.28.51:721][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.28-23.28.51:721][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.28-23.28.51:728][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.28-23.28.51:728][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.28-23.28.51:728][  0]LogWindows: EnumDisplayDevices:
+[2019.02.28-23.28.51:729][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2019.02.28-23.28.51:729][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.02.28-23.28.51:729][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.28-23.28.51:730][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.02.28-23.28.51:730][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.28-23.28.51:730][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.02.28-23.28.51:730][  0]LogD3D11RHI:   Driver Version: 417.35 (internal:25.21.14.1735, unified:417.35)
+[2019.02.28-23.28.51:730][  0]LogD3D11RHI:      Driver Date: 12-11-2018
+[2019.02.28-23.28.51:730][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.28-23.28.51:777][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.28-23.28.51:808][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.28-23.28.52:390][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.28-23.28.52:404][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.28-23.28.52:417][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.28-23.28.52:430][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.28-23.28.52:445][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.28-23.28.52:459][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.28-23.28.52:472][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.28-23.28.52:485][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.28-23.28.52:492][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.28-23.28.52:563][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.28-23.28.52:626][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.28-23.28.52:626][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.28-23.28.52:649][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.28-23.28.52:649][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.28-23.28.52:662][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.28-23.28.52:675][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.28-23.28.52:688][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.28-23.28.52:701][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.28-23.28.52:743][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.28-23.28.52:743][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.28-23.28.52:743][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.28-23.28.52:862][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (Z:/Unreal/NMED 4710/FinalProject_4710n/Intermediate/Shaders/WorkingDirectory/2892/).
+[2019.02.28-23.28.52:863][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tyler/AppData/Local/Temp/UnrealShaderWorkingDir/42ADB7D94EB7E2271848B7BAD981150C/'.
+[2019.02.28-23.28.52:866][  0]LogXGEController: Cleaning working directory: C:/Users/Tyler/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.28-23.28.52:867][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.28-23.28.52:867][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.28-23.28.52:867][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.28-23.28.53:505][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: Loaded boot cache 0.23s 79MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tyler/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/Unreal/NMED 4710/FinalProject_4710n/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/Unreal/NMED 4710/FinalProject_4710n/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.28-23.28.53:734][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.28-23.28.53:749][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.28-23.28.53:749][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.28-23.28.53:749][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.28-23.28.53:762][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tyler/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.28-23.28.53:762][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.28-23.28.53:762][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.28-23.28.53:787][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.28-23.28.53:793][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.28-23.28.53:797][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.28-23.28.53:964][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.02.28-23.28.54:367][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.28-23.28.54:530][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.28-23.28.54:551][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.28-23.28.54:551][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.28-23.28.54:552][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.28-23.28.54:552][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.28-23.28.54:687][  0]LogNetVersion: SheepHerderSimulator 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2562096638)
+[2019.02.28-23.28.55:464][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.066378 seconds
+[2019.02.28-23.28.55:472][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.28-23.28.55:472][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.28-23.28.55:472][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.28-23.28.57:304][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.28-23.28.57:321][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.28-23.28.58:039][  0]SourceControl: Source control is disabled
+[2019.02.28-23.28.58:738][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.28-23.28.58:836][  0]LogOcInput: OculusInput pre-init called
+[2019.02.28-23.28.59:020][  0]LogEngine: Initializing Engine...
+[2019.02.28-23.28.59:022][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.28-23.28.59:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.28-23.28.59:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.28-23.28.59:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.28-23.28.59:025][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.28-23.28.59:246][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.28-23.28.59:287][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.28-23.28.59:361][  0]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.28.59:379][  0]LogInit: FAudioDevice initialized.
+[2019.02.28-23.28.59:379][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.28-23.28.59:462][  0]LogDerivedDataCache: Saved boot cache 0.08s 79MB C:/Users/Tyler/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.28-23.28.59:466][  0]LogInit: Texture streaming: Enabled
+[2019.02.28-23.28.59:492][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.28-23.28.59:633][  0]LogInit: Transaction tracking system initialized
+[2019.02.28-23.28.59:804][  0]BlueprintLog: New page: Editor Load
+[2019.02.28-23.29.00:009][  0]LocalizationService: Localization service is disabled
+[2019.02.28-23.29.00:530][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/' took 0.01s
+[2019.02.28-23.29.00:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.28-23.29.00:530][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.28-23.29.00:530][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.28-23.29.00:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.28-23.29.00:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.28-23.29.00:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.28-23.29.00:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.28-23.29.00:797][  0]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TEST_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.29.00:798][  0]LightingResults: New page: Lighting Build
+[2019.02.28-23.29.00:808][  0]MapCheck: New page: Map Check
+[2019.02.28-23.29.00:808][  0]LightingResults: New page: Lighting Build
+[2019.02.28-23.29.01:237][  0]LogSkeletalMesh: Building Skeletal Mesh sheep...
+[2019.02.28-23.29.01:240][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Meshes/sheep/sheep.sheep
+[2019.02.28-23.29.01:254][  0]LogMaterial: Display: Missing cached shader map for material M_Sheep_Skin, compiling. 
+[2019.02.28-23.29.01:376][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.28-23.29.01:376][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.28-23.29.01:376][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.28-23.29.01:376][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.28-23.29.01:376][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.28-23.29.01:492][  0]LogAIModule: Creating AISystem for world TEST_Map
+[2019.02.28-23.29.01:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.29.01:596][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.29.01:596][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2019.02.28-23.29.01:597][  0]LogFileHelpers: Loading map 'TEST_Map' took 0.800
+[2019.02.28-23.29.01:758][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.29.01:772][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.29.01:784][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.29.01:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.29.01:813][  0]LogCollectionManager: Loaded 0 collections in 0.002825 seconds
+[2019.02.28-23.29.01:901][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Collections/' took 0.01s
+[2019.02.28-23.29.01:901][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Developers/Tyler/Collections/' took 0.01s
+[2019.02.28-23.29.01:901][  0]LogFileCache: Scanning file cache for directory 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Collections/' took 0.01s
+[2019.02.28-23.29.01:901][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.28-23.29.01:916][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2658 classes and 622 folders.
+[2019.02.28-23.29.01:933][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.28-23.29.01:940][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:944][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:946][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:947][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:949][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:967][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:968][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:970][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:971][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:979][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:980][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.01:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.28-23.29.02:094][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.28-23.29.02:109][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.02.28-23.29.02:381][  0]LogSlate: Took 0.001088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.28-23.29.02:391][  0]LogSlate: Took 0.001348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.28-23.29.02:410][  0]LogSlate: Took 0.000881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.28-23.29.02:589][  0]LogRenderer: Reallocating scene render targets to support 1892x964 Format 10 NumSamples 1 (Frame:1).
+[2019.02.28-23.29.05:997][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.28-23.29.06:019][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.02.28-23.29.06:019][  0]LogLoad: (Engine Initialization) Total time: 19.56 seconds
+[2019.02.28-23.29.06:019][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.28-23.29.06:150][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.28-23.29.06:397][  3]LogAssetRegistry: Asset discovery search completed in 12.4559 seconds
+[2019.02.28-23.29.06:404][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.28-23.29.06:404][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000795 seconds (updated 0 objects)
+[2019.02.28-23.29.09:306][ 89]LogSlate: Took 0.001003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.28-23.29.09:627][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.29.11:228][258]LogFileCache: Retrieving MD5 hashes for directory 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/' took 5.16s
+[2019.02.28-23.29.24:364][204]AssetReimport: New page: Outstanding source content changes 9:29:24 AM
+[2019.02.28-23.29.24:369][204]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks hit ground longer.wav)
+[2019.02.28-23.29.24:390][205]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks hit ground shorter.wav)
+[2019.02.28-23.29.24:396][205]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks hit ground.wav)
+[2019.02.28-23.29.24:400][205]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate closing.wav)
+[2019.02.28-23.29.24:403][205]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate opening.wav)
+[2019.02.28-23.29.24:453][205]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Heavy Chaos.wav)
+[2019.02.28-23.29.24:544][206]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Volcano Rumble.wav)
+[2019.02.28-23.29.24:701][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Chunks_hit_ground_longer" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground_longer.uasset" SILENT=true
+[2019.02.28-23.29.24:712][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Chunks_hit_ground_longerAD241B84497D27E2CD8E07B92FDC7B01.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground_longer.uasset'
+[2019.02.28-23.29.25:232][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Chunks_hit_ground_shorter" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground_shorter.uasset" SILENT=true
+[2019.02.28-23.29.25:235][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Chunks_hit_ground_shorterE9D418944A2547DC97BAC48B87BD094E.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground_shorter.uasset'
+[2019.02.28-23.29.25:517][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Chunks_hit_ground" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground.uasset" SILENT=true
+[2019.02.28-23.29.25:521][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Chunks_hit_ground3B22328D48F4D05A87FA799F94E02F89.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Chunks_hit_ground.uasset'
+[2019.02.28-23.29.25:766][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Gate_closing" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate_closing.uasset" SILENT=true
+[2019.02.28-23.29.25:770][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Gate_closingF3CA289C442D6650B1D924A81F9069D7.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate_closing.uasset'
+[2019.02.28-23.29.26:032][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Gate_opening" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate_opening.uasset" SILENT=true
+[2019.02.28-23.29.26:035][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Gate_openingB1B9EE6246EF03DE619BABA2E1080A3A.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Gate_opening.uasset'
+[2019.02.28-23.29.26:261][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Heavy_Chaos" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Heavy_Chaos.uasset" SILENT=true
+[2019.02.28-23.29.26:290][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Heavy_Chaos6E511E5D43B5CD8C684D35B1884D015F.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Heavy_Chaos.uasset'
+[2019.02.28-23.29.28:483][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sounds/Volcano_Rumble" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Volcano_Rumble.uasset" SILENT=true
+[2019.02.28-23.29.28:488][207]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Volcano_Rumble07A3D7B14DE8A00FAFF3318D8E29D63B.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Sounds/Volcano_Rumble.uasset'
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Chunks_hit_ground_longer.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Chunks_hit_ground_shorter.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Chunks_hit_ground.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Gate_closing.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Gate_opening.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Heavy_Chaos.
+[2019.02.28-23.29.32:021][558]AssetReimport: Importing new asset /Game/Sounds/Volcano_Rumble.
+[2019.02.28-23.30.41:467][772]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TEST_Map.TEST_Map
+[2019.02.28-23.30.41:492][772]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TEST_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.30.41:492][772]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.41:492][772]LoadErrors: New page: Loading map: TEST_Map.umap
+[2019.02.28-23.30.41:497][772]MapCheck: New page: Map Check
+[2019.02.28-23.30.41:497][772]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.41:558][772]LogAIModule: Creating AISystem for world TEST_Map
+[2019.02.28-23.30.41:661][772]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.30.41:705][772]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.30.41:705][772]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.02.28-23.30.41:706][772]LogFileHelpers: Loading map 'TEST_Map' took 0.217
+[2019.02.28-23.30.42:833][890]LogAIModule: Creating AISystem for world RyansMap
+[2019.02.28-23.30.42:851][890]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/RyansMap.RyansMap
+[2019.02.28-23.30.42:873][890]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/RyansMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.30.42:874][890]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.42:874][890]LoadErrors: New page: Loading map: RyansMap.umap
+[2019.02.28-23.30.42:875][890]MapCheck: New page: Map Check
+[2019.02.28-23.30.42:875][890]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.42:976][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.30.43:017][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.30.43:017][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2019.02.28-23.30.43:017][890]LogFileHelpers: Loading map 'RyansMap' took 0.145
+[2019.02.28-23.30.44:944][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.28-23.30.45:212][124]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.02.28-23.30.45:212][124]LogStaticMesh: Building static mesh pyroclast01...
+[2019.02.28-23.30.45:231][124]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/volcanoLevel/pyroclast01.pyroclast01
+[2019.02.28-23.30.45:270][124]LogMaterial: Display: Missing cached shader map for material M_RedMetal, compiling. 
+[2019.02.28-23.30.45:284][124]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.28-23.30.45:284][124]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.28-23.30.45:284][124]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.28-23.30.45:284][124]LogMaterial: Display: Missing cached shader map for material M_HayRope, compiling. 
+[2019.02.28-23.30.45:301][124]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.28-23.30.45:310][124]LogStaticMesh: Building static mesh fireHoseBase...
+[2019.02.28-23.30.45:323][124]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Meshes/items/fireHoseBase.fireHoseBase
+[2019.02.28-23.30.45:330][124]LogStaticMesh: Building static mesh fireHose...
+[2019.02.28-23.30.45:372][124]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Meshes/items/fireHose.fireHose
+[2019.02.28-23.30.45:381][124]LogMaterial: Display: Missing cached shader map for material M_BlackRubber, compiling. 
+[2019.02.28-23.30.45:405][124]LogMaterial: Display: Missing cached shader map for material M_Lava, compiling. 
+[2019.02.28-23.30.45:437][124]LogMaterial: Display: Missing cached shader map for material M_VolcanicRock, compiling. 
+[2019.02.28-23.30.45:463][124]LogStaticMesh: Building static mesh hay...
+[2019.02.28-23.30.45:480][124]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Meshes/environment/hay.hay
+[2019.02.28-23.30.45:487][124]LogStaticMesh: Building static mesh volcano...
+[2019.02.28-23.30.45:515][124]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Meshes/volcanoLevel/volcano.volcano
+[2019.02.28-23.30.45:521][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/dog/dogIdle.dogIdle
+[2019.02.28-23.30.45:523][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/dog/dogIdle.dogIdle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:529][124]LogMaterial: Display: Missing cached shader map for material M_Dog_Fur_White, compiling. 
+[2019.02.28-23.30.45:565][124]LogMaterial: Display: Missing cached shader map for material M_Dog_Bandana, compiling. 
+[2019.02.28-23.30.45:625][124]LogMaterial: Display: Missing cached shader map for material M_Dog_Fur_Main, compiling. 
+[2019.02.28-23.30.45:694][124]LogMaterial: Display: Missing cached shader map for material M_Dog_Nose, compiling. 
+[2019.02.28-23.30.45:732][124]LogMaterial: Display: Missing cached shader map for material M_Hay, compiling. 
+[2019.02.28-23.30.45:749][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/sheep/sheepmoveWalk.sheepmoveWalk
+[2019.02.28-23.30.45:749][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/sheep/sheepmoveWalk.sheepmoveWalk) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:751][124]LogSkeletalMesh: Building Skeletal Mesh dog...
+[2019.02.28-23.30.45:753][124]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Assets/Meshes/dog/dog.dog
+[2019.02.28-23.30.45:758][124]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.28-23.30.45:775][124]LogMaterial: Display: Missing cached shader map for material M_BlackPlastic, compiling. 
+[2019.02.28-23.30.45:792][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/sheep/sheepidleEat.sheepidleEat
+[2019.02.28-23.30.45:793][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/sheep/sheepidleEat.sheepidleEat) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:794][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/dog/dogIdleLook.dogIdleLook
+[2019.02.28-23.30.45:795][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/dog/dogIdleLook.dogIdleLook) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:796][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/dog/dogMoveRun.dogMoveRun
+[2019.02.28-23.30.45:796][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/dog/dogMoveRun.dogMoveRun) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:797][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/sheep/sheepmoveRun.sheepmoveRun
+[2019.02.28-23.30.45:797][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/sheep/sheepmoveRun.sheepmoveRun) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:799][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Animations/sheep/sheepidleShake.sheepidleShake
+[2019.02.28-23.30.45:799][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Animations/sheep/sheepidleShake.sheepidleShake) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.02.28-23.30.45:801][124]LogAIModule: Creating AISystem for world assetTest
+[2019.02.28-23.30.45:818][124]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/assetTest.assetTest
+[2019.02.28-23.30.45:846][124]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/assetTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.30.45:846][124]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.45:847][124]LoadErrors: New page: Loading map: assetTest.umap
+[2019.02.28-23.30.45:848][124]MapCheck: New page: Map Check
+[2019.02.28-23.30.45:848][124]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.45:977][124]LogShaderCompilers: Display: Shaders left to compile 478
+[2019.02.28-23.30.45:977][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.30.46:039][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.30.46:041][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.505ms to complete.
+[2019.02.28-23.30.46:042][124]LogFileHelpers: Loading map 'assetTest' took 0.198
+[2019.02.28-23.30.47:853][239]LogShaderCompilers: Display: Shaders left to compile 468
+[2019.02.28-23.30.47:863][240]LogShaderCompilers: Display: Shaders left to compile 458
+[2019.02.28-23.30.49:481][392]LogShaderCompilers: Display: Shaders left to compile 448
+[2019.02.28-23.30.49:838][426]LogShaderCompilers: Display: Shaders left to compile 438
+[2019.02.28-23.30.49:993][440]LogShaderCompilers: Display: Shaders left to compile 428
+[2019.02.28-23.30.50:878][526]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/Maps/TEST_Map_BuiltData.TEST_Map_BuiltData
+[2019.02.28-23.30.51:650][590]LogShaderCompilers: Display: Shaders left to compile 418
+[2019.02.28-23.30.52:031][626]LogShaderCompilers: Display: Shaders left to compile 408
+[2019.02.28-23.30.52:966][699]LogShaderCompilers: Display: Shaders left to compile 398
+[2019.02.28-23.30.53:458][730]LogSlate: Window 'TEST_Map_BuiltData - Generic Asset Editor' being destroyed
+[2019.02.28-23.30.54:042][779]LogShaderCompilers: Display: Shaders left to compile 388
+[2019.02.28-23.30.54:325][806]LogShaderCompilers: Display: Shaders left to compile 378
+[2019.02.28-23.30.54:877][850]LogAIModule: Creating AISystem for world TEST_Map
+[2019.02.28-23.30.54:939][850]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TEST_Map.TEST_Map
+[2019.02.28-23.30.54:971][850]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TEST_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.30.54:971][850]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.54:972][850]LoadErrors: New page: Loading map: TEST_Map.umap
+[2019.02.28-23.30.54:973][850]MapCheck: New page: Map Check
+[2019.02.28-23.30.54:973][850]LightingResults: New page: Lighting Build
+[2019.02.28-23.30.55:155][850]LogShaderCompilers: Display: Shaders left to compile 368
+[2019.02.28-23.30.55:157][850]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.30.55:216][850]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.30.55:216][850]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2019.02.28-23.30.55:217][850]LogFileHelpers: Loading map 'TEST_Map' took 0.246
+[2019.02.28-23.30.56:836][970]LogShaderCompilers: Display: Shaders left to compile 358
+[2019.02.28-23.30.57:030][990]LogShaderCompilers: Display: Shaders left to compile 348
+[2019.02.28-23.30.57:413][ 20]LogShaderCompilers: Display: Shaders left to compile 338
+[2019.02.28-23.30.58:273][ 91]LogShaderCompilers: Display: Shaders left to compile 328
+[2019.02.28-23.30.59:806][221]LogShaderCompilers: Display: Shaders left to compile 318
+[2019.02.28-23.31.00:128][251]LogShaderCompilers: Display: Shaders left to compile 308
+[2019.02.28-23.31.00:608][297]LogShaderCompilers: Display: Shaders left to compile 298
+[2019.02.28-23.31.01:053][340]LogShaderCompilers: Display: Shaders left to compile 288
+[2019.02.28-23.31.02:598][489]LogShaderCompilers: Display: Shaders left to compile 278
+[2019.02.28-23.31.03:347][559]LogShaderCompilers: Display: Shaders left to compile 268
+[2019.02.28-23.31.04:494][628]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.31.04:579][628]LogShaderCompilers: Display: Shaders left to compile 258
+[2019.02.28-23.31.04:605][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TylerWorld" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.28-23.31.04:807][628]LogShaderCompilers: Display: Shaders left to compile 248
+[2019.02.28-23.31.04:853][628]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/TylerWorldF6529DD84175E636158EFB8048367124.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld.umap'
+[2019.02.28-23.31.05:808][628]LogFileHelpers: Saving map 'TylerWorld' took 1.204
+[2019.02.28-23.31.06:669][682]LogShaderCompilers: Display: Shaders left to compile 238
+[2019.02.28-23.31.06:801][693]LogShaderCompilers: Display: Shaders left to compile 228
+[2019.02.28-23.31.07:457][753]LogShaderCompilers: Display: Shaders left to compile 218
+[2019.02.28-23.31.08:234][824]LogShaderCompilers: Display: Shaders left to compile 208
+[2019.02.28-23.31.09:195][912]LogShaderCompilers: Display: Shaders left to compile 198
+[2019.02.28-23.31.10:314][ 13]LogShaderCompilers: Display: Shaders left to compile 188
+[2019.02.28-23.31.10:670][ 44]LogShaderCompilers: Display: Shaders left to compile 178
+[2019.02.28-23.31.11:396][111]LogShaderCompilers: Display: Shaders left to compile 168
+[2019.02.28-23.31.13:417][298]LogShaderCompilers: Display: Shaders left to compile 158
+[2019.02.28-23.31.13:800][333]LogShaderCompilers: Display: Shaders left to compile 148
+[2019.02.28-23.31.14:152][366]LogShaderCompilers: Display: Shaders left to compile 138
+[2019.02.28-23.31.15:165][457]LogShaderCompilers: Display: Shaders left to compile 128
+[2019.02.28-23.31.16:379][565]LogShaderCompilers: Display: Shaders left to compile 118
+[2019.02.28-23.31.17:073][630]LogShaderCompilers: Display: Shaders left to compile 108
+[2019.02.28-23.31.17:319][652]LogShaderCompilers: Display: Shaders left to compile 98
+[2019.02.28-23.31.17:937][708]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.02.28-23.31.19:679][865]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.02.28-23.31.19:979][892]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.02.28-23.31.20:532][943]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.28-23.31.21:150][998]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.28-23.31.21:872][ 64]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.28-23.31.23:472][208]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.28-23.31.23:539][215]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.28-23.31.24:188][273]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.28-23.31.37:446][807]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/TylerWorld.TylerWorld
+[2019.02.28-23.31.41:117][807]LogSlate: Window 'Save Content' being destroyed
+[2019.02.28-23.31.41:190][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TylerWorld_BuiltData" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld_BuiltData.uasset" SILENT=true
+[2019.02.28-23.31.41:205][807]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/TylerWorld_BuiltDataC61EF0C346889B8AAEBBE7828EDA4042.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld_BuiltData.uasset'
+[2019.02.28-23.31.41:707][807]Cmd: MAP LOAD FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.28-23.31.41:707][807]LightingResults: New page: Lighting Build
+[2019.02.28-23.31.41:708][807]LoadErrors: New page: Loading map: TylerWorld.umap
+[2019.02.28-23.31.41:708][807]MapCheck: New page: Map Check
+[2019.02.28-23.31.41:708][807]LightingResults: New page: Lighting Build
+[2019.02.28-23.31.41:809][807]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.28-23.31.41:854][807]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.28-23.31.41:854][807]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2019.02.28-23.31.41:855][807]LogFileHelpers: Loading map 'TylerWorld' took 0.149
+[2019.02.28-23.31.45:330][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.28-23.31.46:454][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.31.49:874][624]LogMaterial: Warning: Material /Game/Assets/Materials/M_HayRope.M_HayRope needed to have new flag set bUsedWithStaticLighting !
+[2019.02.28-23.31.49:877][624]LogMaterial: Display: Missing cached shader map for material M_HayRope, compiling. 
+[2019.02.28-23.31.49:913][625]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.28-23.31.49:913][625]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.28-23.31.49:913][625]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.28-23.31.49:913][625]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.28-23.31.56:425][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.32.03:345][ 28]LogMaterial: Warning: Material /Game/Assets/Materials/M_OldBrass.M_OldBrass needed to have new flag set bUsedWithStaticLighting !
+[2019.02.28-23.32.03:348][ 28]LogMaterial: Display: Missing cached shader map for material M_OldBrass, compiling. 
+[2019.02.28-23.32.03:383][ 29]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.28-23.32.03:383][ 29]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.28-23.32.03:383][ 29]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.28-23.32.03:383][ 29]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.28-23.32.09:197][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.32.12:047][873]LogMaterial: Warning: Material /Game/Assets/Materials/M_Sheep_Skin.M_Sheep_Skin needed to have new flag set bUsedWithStaticLighting !
+[2019.02.28-23.32.12:050][873]LogMaterial: Display: Missing cached shader map for material M_Sheep_Skin, compiling. 
+[2019.02.28-23.32.12:103][874]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.02.28-23.32.12:103][874]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.28-23.32.12:103][874]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.28-23.32.12:103][874]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.28-23.32.14:190][ 28]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.28-23.32.14:967][ 85]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.28-23.32.15:729][146]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.28-23.32.21:977][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.32.22:727][857]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.32.22:729][857]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.32.22:731][857]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:32:22 AM)
+[2019.02.28-23.32.22:748][857]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.32.22:765][857]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016383s)
+[2019.02.28-23.32.22:765][857]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.32.22:766][857]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.02.28-23.32.22:766][857]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.017649s)
+[2019.02.28-23.32.22:801][857]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.32.22:808][857]LogInit: FAudioDevice initialized.
+[2019.02.28-23.32.22:810][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.32.22:856][857]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.32.22:866][857]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.32.22
+[2019.02.28-23.32.22:882][857]LogWorld: Bringing up level for play took: 0.018683
+[2019.02.28-23.32.22:911][857]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.28-23.32.22:915][857]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.508
+[2019.02.28-23.32.22:916][857]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.32.46:913][726]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.32.46:914][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.32.46:951][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.32.46:952][726]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.32.46:976][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.32.47:042][727]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.28-23.32.52:416][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.33.08:022][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.33.08:160][933]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/volcano.volcano
+[2019.02.28-23.33.08:586][933]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.28-23.33.09:333][933]LogSlate: Took 0.000962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.28-23.33.11:247][ 75]LogSlate: Window 'volcano' being destroyed
+[2019.02.28-23.33.11:257][ 76]LogRenderer: Reallocating scene render targets to support 2836x1448 Format 10 NumSamples 1 (Frame:4995).
+[2019.02.28-23.33.28:599][484]LogEditorViewport: Clicking on Actor (LMB): PowerUp_Fence_C (PowerUp_Fence)
+[2019.02.28-23.33.29:912][598]Cmd: DELETE
+[2019.02.28-23.33.29:912][598]Cmd: ACTOR DELETE
+[2019.02.28-23.33.29:926][598]LogEditorActor: Deleted Actor: PowerUp_Fence_C
+[2019.02.28-23.33.29:955][598]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.02.28-23.33.30:431][644]LogEditorViewport: Clicking on Actor (LMB): BP_Wander_C (BP_Wander)
+[2019.02.28-23.33.35:135][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.33.37:927][202]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.28-23.33.41:580][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2019.02.28-23.33.42:102][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.34.04:878][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.34.17:951][807]LogSlate: Took 0.000974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.28-23.34.24:944][370]LogEditorViewport: Clicking Background
+[2019.02.28-23.34.25:486][424]LogEditorViewport: Clicking on Actor (LMB): volcano_C (volcano)
+[2019.02.28-23.34.32:373][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.34.32:433][ 29]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.34.32:437][ 29]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.34.32:438][ 29]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.34.32:591][ 29]LogBlueprint: Warning: [Compiler volcano] [0346.13] Compile of volcano failed. 2 Fatal Issue(s) 0 Warning(s) [in 157 ms] (/Game/Blueprints/VolcanoLevel/volcano.volcano)
+[2019.02.28-23.34.47:004][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.35.18:152][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.35.18:308][238]LogAssetEditorManager: Opening Asset editor for Material /Game/Assets/Particles/Materials/M_smoke_subUV.M_smoke_subUV
+[2019.02.28-23.35.18:315][238]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.02.28-23.35.18:708][238]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.02.28-23.35.18:730][238]LogMaterial: Display: Missing cached shader map for material M_smoke_subUV, compiling. 
+[2019.02.28-23.35.18:763][238]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.28-23.35.18:763][238]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.28-23.35.18:763][238]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.28-23.35.18:763][238]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.28-23.35.18:779][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2019.02.28-23.35.18:784][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionParticleSubUV_0, compiling. 
+[2019.02.28-23.35.18:792][238]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.28-23.35.19:186][245]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.28-23.35.19:186][245]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.28-23.35.19:186][245]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.28-23.35.19:212][247]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.28-23.35.19:351][254]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.28-23.35.19:394][256]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.28-23.35.19:733][271]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.28-23.35.19:777][273]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.28-23.35.19:777][273]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.28-23.35.20:133][290]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.28-23.35.20:262][297]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.28-23.35.20:330][300]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.28-23.35.20:472][307]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.28-23.35.20:584][312]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.28-23.35.20:719][318]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.28-23.35.20:834][323]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.28-23.35.20:929][328]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.28-23.35.21:258][344]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.28-23.35.21:299][346]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.28-23.35.21:459][354]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.28-23.35.21:582][360]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.28-23.35.21:701][365]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.28-23.35.21:854][372]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.28-23.35.22:013][374]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.28-23.35.22:040][375]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.28-23.35.22:353][390]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.28-23.35.28:503][809]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/volcanoLevel/volcano.volcano
+[2019.02.28-23.35.35:137][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.36.23:846][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.36.23:995][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.36.24:020][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/volcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.36.24:036][ 64]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano02F4A3B648330B6D857984A6114DE2CD.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset'
+[2019.02.28-23.36.24:437][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.36.28:877][336]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.36.28:881][336]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.36.28:881][336]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.36.29:038][336]LogBlueprint: Warning: [Compiler volcano] [0462.58] Compile of volcano failed. 2 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/Blueprints/VolcanoLevel/volcano.volcano)
+[2019.02.28-23.38.00:958][441]LogEditorTransaction: Undo Translate Socket
+[2019.02.28-23.38.01:378][453]LogEditorTransaction: Undo Edit Preview Static Mesh
+[2019.02.28-23.38.29:848][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.38.30:030][599]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.38.30:035][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/volcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.38.30:048][599]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano7647860E4F81609A64E4DD893A865285.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset'
+[2019.02.28-23.38.30:711][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.38.31:659][710]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.38.31:663][710]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.38.31:663][710]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.38.31:813][710]LogBlueprint: Warning: [Compiler volcano] [0585.35] Compile of volcano failed. 2 Fatal Issue(s) 0 Warning(s) [in 155 ms] (/Game/Blueprints/VolcanoLevel/volcano.volcano)
+[2019.02.28-23.38.35:174][929]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.38.40:154][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.39.09:364][321]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.39.11:537][472]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.39.11:542][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/volcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.39.11:549][472]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano9378560D4109083C4E1F049E82187F57.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset'
+[2019.02.28-23.39.13:446][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.39.43:610][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.39.54:765][367]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.39.57:963][573]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.40.09:039][392]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.40.09:570][415]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.40.09:587][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.40.09:606][415]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano60AC8CEB4E574E74A090E7851AD4A724.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.40.10:841][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.40.25:284][568]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/pyroclast.pyroclast
+[2019.02.28-23.40.31:589][966]BlueprintLog: New page: Compile pyroclast
+[2019.02.28-23.40.32:189][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.40.32:207][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset" SILENT=true
+[2019.02.28-23.40.32:235][987]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/pyroclast942AFD5E4F3CD0B26731D78322B70A8D.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset'
+[2019.02.28-23.40.33:004][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.40.36:104][272]BlueprintLog: New page: Compile pyroclast
+[2019.02.28-23.40.36:673][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.40.36:694][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset" SILENT=true
+[2019.02.28-23.40.36:710][299]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/pyroclast62682F21482D2107A336198C9991A9EE.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset'
+[2019.02.28-23.40.37:690][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.40.52:394][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.40.55:581][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.40.55:601][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/volcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.40.55:615][699]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcanoAC1C5E774DB5D0F4FC35EFA5B7A64EFE.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Assets/Meshes/volcanoLevel/volcano.uasset'
+[2019.02.28-23.40.56:161][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.40.58:085][913]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.40.58:088][913]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.40.58:088][913]LogBlueprint: Error: [Compiler volcano] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.02.28-23.40.58:240][913]LogBlueprint: Warning: [Compiler volcano] [0731.78] Compile of volcano failed. 2 Fatal Issue(s) 0 Warning(s) [in 155 ms] (/Game/Blueprints/VolcanoLevel/volcano.volcano)
+[2019.02.28-23.41.02:802][359]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.41.03:370][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.41.03:387][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.41.03:405][381]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcanoAD9BC2DB45F49F483F3018B02BC0B2FA.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.41.03:918][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.41.07:994][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.43.22:607][724]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.43.31:802][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.43.31:888][506]BlueprintLog: New page: Compile volcano
+[2019.02.28-23.43.32:500][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.43.32:517][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.43.32:535][534]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano44DAC9B54EC8B819E912398F80C0BF4B.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.43.34:241][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.44.35:908][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.35:972][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.36:028][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.36:096][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.36:424][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast_C' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:425][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:425][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:425][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:425][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:425][140]LogMetaData: Removing '/Game/Blueprints/VolcanoLevel/Pyroblast.SKEL_Pyroblast_C' ref from Metadata '/Game/Blueprints/VolcanoLevel/pyroclast.PackageMetaData'
+[2019.02.28-23.44.36:440][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.36:462][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/Pyroblast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset" SILENT=true
+[2019.02.28-23.44.36:474][140]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/Pyroblast16E40ED64402F36F30C07D9ADCCD0320.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset'
+[2019.02.28-23.44.37:529][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/pyroclast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset" SILENT=true
+[2019.02.28-23.44.37:534][140]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/pyroclastB666D66442406877548D2FA662C4C36E.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/pyroclast.uasset'
+[2019.02.28-23.44.37:617][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.37:798][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:559][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:624][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:700][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:756][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:773][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.40:788][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.44.40:793][338]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.28-23.44.42:425][338]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.632 s
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: 
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 219]
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: Found circular redirect from /Game/Blueprints/VolcanoLevel/Volcano.Volcano to /Game/Blueprints/VolcanoLevel/Volcano.Volcano! Returning None instead
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: Stack: 
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93bdcb14 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93f1fbff UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93f2fba9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93c238a7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93b9731f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93f2f833 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93d41811 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ec6ab1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ec6e07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93d444ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93d414b2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ec6ab1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93e4a0b9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ec6e07 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93d444ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93e4a8b3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93e485cc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93e482c4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff86dc76da UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff86dc7022 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ea2f2b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93ecae67 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff93eadf75 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff855291f6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff85529c17 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff8556dee4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff8556a6d5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff85e70a03 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff8593d5d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff8593bed1 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff85953728 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff7415fa41 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff74126655 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff7416dd77 UE4Editor-AssetTools.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff72d72ea5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff72ddeb7d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff72e2fda4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff72d4cc8d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff72d2de19 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff92b3bda2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff92b0da29 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff92b1c40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff92929ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff92920afe UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9290808b UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff928fadaa UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9bb4dece UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9bb40de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9bb501eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9bb3ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fffc239ca66 USER32.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fffc239c582 USER32.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fff9bb51746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007ff7c2475546 UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007ff7c248596c UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007ff7c24859ea UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007ff7c24948da UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007ff7c249659a UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fffc34e81f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: [Callstack] 0x00007fffc4b5a251 ntdll.dll!UnknownFunction []
+[2019.02.28-23.44.42:426][338]LogOutputDevice: Error: 
+[2019.02.28-23.44.42:437][338]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.28-23.44.43:306][338]LogStats:                    SendNewReport -  0.869 s
+[2019.02.28-23.44.43:306][338]LogStats:             FDebug::EnsureFailed -  2.512 s
+[2019.02.28-23.44.43:326][338]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano9F3396A44AF4BDA25419E1ADF69CC2B0.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.44.43:333][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.43:399][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.43:559][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.44:002][366]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.44.44:009][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TylerWorld" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.28-23.44.44:269][366]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/TylerWorldDF392CC546B5109C2E4E78967AECD926.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld.umap'
+[2019.02.28-23.44.44:361][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TylerWorld_BuiltData" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld_BuiltData.uasset" SILENT=true
+[2019.02.28-23.44.44:381][366]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/TylerWorld_BuiltData7FE7BE7F487B29EDED5387B523088AE6.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Maps/TylerWorld_BuiltData.uasset'
+[2019.02.28-23.44.52:694][105]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.28-23.45.04:960][170]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.45.05:447][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.45.05:465][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.45.05:484][190]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano6E14303D4C9E3FEC8ADF1BB0F9979042.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.45.07:075][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.47.21:383][ 14]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.47.21:971][ 41]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.47.21:991][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.47.22:014][ 41]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano55F7C7244D1ABEA966C98BA3D088AF46.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.47.22:763][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.47.22:856][112]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.47.22:878][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.47.22:878][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.47.22:878][112]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:47:22 AM)
+[2019.02.28-23.47.22:878][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.47.22:892][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015090s)
+[2019.02.28-23.47.22:893][112]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.47.22:893][112]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2019.02.28-23.47.22:893][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.016130s)
+[2019.02.28-23.47.22:964][112]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.47.22:971][112]LogInit: FAudioDevice initialized.
+[2019.02.28-23.47.23:004][112]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.47.23:008][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.47.23
+[2019.02.28-23.47.23:009][112]LogWorld: Bringing up level for play took: 0.004759
+[2019.02.28-23.47.23:024][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.4
+[2019.02.28-23.47.23:024][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.47.43:787][719]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.47.43:787][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.47.43:830][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.47.43:831][719]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.47.43:860][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.47.43:920][720]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.02.28-23.47.44:970][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.47.52:651][574]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.47.53:266][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.47.53:284][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.47.53:306][608]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano2EE82C7F48F28711B1B567832186B243.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.47.56:356][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.48.07:701][953]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.48.08:245][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.48.08:263][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.48.08:286][980]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano76309C6E4489CEE13DBD659511FDFF32.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.48.08:586][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.48.08:664][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.48.08:689][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.08:689][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.48.08:689][ 12]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:48:08 AM)
+[2019.02.28-23.48.08:689][ 12]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.48.08:704][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015117s)
+[2019.02.28-23.48.08:705][ 12]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.48.08:705][ 12]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2019.02.28-23.48.08:705][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.016023s)
+[2019.02.28-23.48.08:749][ 12]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.48.08:755][ 12]LogInit: FAudioDevice initialized.
+[2019.02.28-23.48.08:790][ 12]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.48.08:794][ 12]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.48.08
+[2019.02.28-23.48.08:795][ 12]LogWorld: Bringing up level for play took: 0.004919
+[2019.02.28-23.48.08:808][ 12]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.615
+[2019.02.28-23.48.08:809][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.19:345][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.19:345][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.48.19:385][982]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.48.19:385][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.19:414][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.48.19:472][983]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.28-23.48.21:601][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.48.33:511][310]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.48.34:120][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.48.34:139][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.48.34:161][344]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcanoBD9011754ADA584FA33635B9375B014B.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.48.34:528][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.48.35:142][433]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.48.35:166][433]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.35:166][433]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.48.35:166][433]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:48:35 AM)
+[2019.02.28-23.48.35:166][433]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.48.35:177][433]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011378s)
+[2019.02.28-23.48.35:178][433]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.48.35:178][433]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2019.02.28-23.48.35:179][433]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.012658s)
+[2019.02.28-23.48.35:219][433]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.48.35:226][433]LogInit: FAudioDevice initialized.
+[2019.02.28-23.48.35:260][433]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.48.35:265][433]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.48.35
+[2019.02.28-23.48.35:266][433]LogWorld: Bringing up level for play took: 0.005024
+[2019.02.28-23.48.35:279][433]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.145
+[2019.02.28-23.48.35:279][433]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.42:693][104]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.42:693][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.48.42:733][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.48.42:733][104]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.48.42:762][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.48.42:817][105]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.28-23.48.46:528][468]LogEditorViewport: Clicking on Actor (LMB): BP_Wander_C (BP_Wander4)
+[2019.02.28-23.48.49:530][668]LogEditorViewport: Clicking on Actor (LMB): BP_Wander_C (BP_Wander)
+[2019.02.28-23.48.52:898][890]LogEditorViewport: Clicking on Actor (LMB): BP_Wander_C (BP_Wander5)
+[2019.02.28-23.48.54:849][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Wander_C (BP_Wander)
+[2019.02.28-23.48.57:672][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.49.17:508][591]Cmd: DELETE
+[2019.02.28-23.49.17:508][591]Cmd: ACTOR DELETE
+[2019.02.28-23.49.17:512][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:513][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:514][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:515][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:515][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:516][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:517][591]LogEditorActor: Deleted Actor: BP_Wander_C
+[2019.02.28-23.49.17:544][591]LogEditorActor: Deleted 7 Actors (0.036 secs)
+[2019.02.28-23.49.18:798][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.49.18:879][720]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.49.18:897][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.49.18:897][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.49.18:897][720]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:49:18 AM)
+[2019.02.28-23.49.18:897][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.49.18:911][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013867s)
+[2019.02.28-23.49.18:912][720]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.49.18:912][720]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2019.02.28-23.49.18:912][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.015009s)
+[2019.02.28-23.49.18:956][720]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.49.18:964][720]LogInit: FAudioDevice initialized.
+[2019.02.28-23.49.18:998][720]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.49.19:001][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.49.19
+[2019.02.28-23.49.19:001][720]LogWorld: Bringing up level for play took: 0.002625
+[2019.02.28-23.49.19:014][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.41
+[2019.02.28-23.49.19:015][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.49.53:108][901]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.49.53:108][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.49.53:143][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.49.53:143][901]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.49.53:173][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.49.53:228][902]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.02.28-23.49.54:869][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.50.16:418][318]BlueprintLog: New page: Compile Pyroblast
+[2019.02.28-23.50.17:015][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.50.17:033][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/Pyroblast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset" SILENT=true
+[2019.02.28-23.50.17:050][353]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/PyroblastF9E79A5C4A08A0552333E384C6CA6F6F.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset'
+[2019.02.28-23.50.19:095][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.50.24:487][ 44]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Volcano_Rumble...
+[2019.02.28-23.50.24:810][ 44]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3551836 while cooking SoundWave /Game/Sounds/Volcano_Rumble.Volcano_Rumble.
+[2019.02.28-23.50.57:939][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.51.01:297][538]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.51.33:343][197]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.51.54:431][961]LogEditorViewport: Clicking Background
+[2019.02.28-23.51.56:597][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.52.07:112][872]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.52.07:669][900]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.52.07:687][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.52.07:711][900]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano9B5393AB47803707EB0DFC80F11B0C23.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.52.09:787][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.52.25:119][382]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.52.25:659][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.52.25:677][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.52.25:701][408]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcanoC189F47F4339227ADB87A0BF5B18A475.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.52.25:903][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.52.27:968][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.52.40:353][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.53.01:825][255]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.53.02:379][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.53.02:397][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.53.02:421][275]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano0B72A04A4175544DC1126198224602BD.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.53.20:974][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.53.31:407][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.53.42:564][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.53.44:949][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.53.46:152][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.53.50:506][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.53.56:117][379]LogEditorTransaction: Undo Remove Components
+[2019.02.28-23.53.59:401][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.03:760][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.54.06:730][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.54.08:793][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.08:856][524]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.54.11:873][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.54.22:789][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.22:977][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.54.22:994][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.54.23:018][727]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano5DC46293465D17E007712EB739DF2C48.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.54.24:603][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.24:678][857]LogSlate: Window 'Pyroblast' being destroyed
+[2019.02.28-23.54.24:682][857]LogSlate: Window 'Pyroblast' being destroyed
+[2019.02.28-23.54.24:760][857]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.02.28-23.54.26:322][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.29:146][366]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/volcano.Volcano
+[2019.02.28-23.54.37:661][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.43:054][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.54.52:217][184]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.56.27:615][274]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.56.28:185][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.56.28:204][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.56.28:229][300]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano5BDDBC6E4E0B7FBDF90E40B30E7913C3.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.56.28:585][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.56.28:679][336]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.56.28:703][336]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.56.28:703][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.56.28:704][336]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:56:28 AM)
+[2019.02.28-23.56.28:704][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.56.28:717][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013738s)
+[2019.02.28-23.56.28:718][336]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.56.28:718][336]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2019.02.28-23.56.28:718][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.014669s)
+[2019.02.28-23.56.28:775][336]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.56.28:782][336]LogInit: FAudioDevice initialized.
+[2019.02.28-23.56.28:817][336]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.56.28:821][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.56.28
+[2019.02.28-23.56.28:822][336]LogWorld: Bringing up level for play took: 0.004175
+[2019.02.28-23.56.28:836][336]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.588
+[2019.02.28-23.56.28:836][336]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.56.43:533][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.56.43:533][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.56.43:538][387]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2019.02.28-23.56.43:539][387]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01CA
+[2019.02.28-23.56.43:539][387]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.56.43:539][387]LogScript: Warning: Accessed None
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01DF
+[2019.02.28-23.56.43:539][387]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.56.43:576][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.56.43:576][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.56.43:607][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.56.43:613][387]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_0.TRASH_MediaSoundComponent_5.AudioComponent_0) Not currently registered. Aborting.
+[2019.02.28-23.56.43:613][387]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_1.TRASH_MediaSoundComponent_18.AudioComponent_1) Not currently registered. Aborting.
+[2019.02.28-23.56.43:666][388]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.02.28-23.56.45:575][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.57.09:721][486]BlueprintLog: New page: Compile Volcano
+[2019.02.28-23.57.10:196][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/volcano" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset" SILENT=true
+[2019.02.28-23.57.10:220][509]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/volcano5A516913405BD0C7DBB60082B14BC774.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/volcano.uasset'
+[2019.02.28-23.57.10:853][583]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.57.10:875][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.10:875][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.57.10:875][583]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:57:10 AM)
+[2019.02.28-23.57.10:875][583]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.57.10:889][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014067s)
+[2019.02.28-23.57.10:890][583]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.57.10:890][583]LogPlayLevel: PIE: World Init took: (0.000733s)
+[2019.02.28-23.57.10:890][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.014966s)
+[2019.02.28-23.57.10:929][583]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.57.10:935][583]LogInit: FAudioDevice initialized.
+[2019.02.28-23.57.10:941][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.57.10:999][583]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.57.11:001][583]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.57.11
+[2019.02.28-23.57.11:002][583]LogWorld: Bringing up level for play took: 0.002531
+[2019.02.28-23.57.11:016][583]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld -0.408
+[2019.02.28-23.57.11:016][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.15:545][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.57.15:631][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.15:631][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.57.15:647][  4]LogSlate: Window 'Shear Chaos Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.28-23.57.15:649][  4]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2019.02.28-23.57.15:649][  4]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01CA
+[2019.02.28-23.57.15:649][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.57.15:650][  4]LogScript: Warning: Accessed None
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01DF
+[2019.02.28-23.57.15:650][  4]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.57.15:684][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.57.15:684][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.15:716][  4]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_0.TRASH_MediaSoundComponent_5.AudioComponent_0) Not currently registered. Aborting.
+[2019.02.28-23.57.15:716][  4]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_1.TRASH_MediaSoundComponent_18.AudioComponent_1) Not currently registered. Aborting.
+[2019.02.28-23.57.15:748][  5]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.28-23.57.24:336][999]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.28-23.57.24:349][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.24:349][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.28-23.57.24:349][999]PIE: New page: PIE session: TylerWorld (Feb 28, 2019, 9:57:24 AM)
+[2019.02.28-23.57.24:349][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TylerWorld
+[2019.02.28-23.57.24:362][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012308s)
+[2019.02.28-23.57.24:362][999]LogAIModule: Creating AISystem for world TylerWorld
+[2019.02.28-23.57.24:363][999]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.02.28-23.57.24:363][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TylerWorld.TylerWorld to /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld (0.013135s)
+[2019.02.28-23.57.24:401][999]LogInit: XAudio2 using 'Speakers (EIE)' : 4 channels at 44.1 kHz using 16 bits per sample (channel mask 0x33)
+[2019.02.28-23.57.24:407][999]LogInit: FAudioDevice initialized.
+[2019.02.28-23.57.24:435][999]LogLoad: Game class is 'BP_SheepHerderGameMode_C'
+[2019.02.28-23.57.24:438][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld up for play (max tick rate 0) at 2019.02.28-16.57.24
+[2019.02.28-23.57.24:439][999]LogWorld: Bringing up level for play took: 0.002497
+[2019.02.28-23.57.24:452][999]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_TylerWorld 1.028
+[2019.02.28-23.57.24:452][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.41:610][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.41:610][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.57.41:615][606]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2019.02.28-23.57.41:615][606]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01CA
+[2019.02.28-23.57.41:615][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.57.41:615][606]LogScript: Warning: Accessed None
+	Volcano_C /Game/Maps/UEDPIE_0_TylerWorld.TylerWorld:PersistentLevel.volcano_2
+	Function /Game/Blueprints/VolcanoLevel/volcano.Volcano_C:ExecuteUbergraph_Volcano:01DF
+[2019.02.28-23.57.41:616][606]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Volcano Function:  Execute Ubergraph Volcano Graph:  EventGraph Node:  Add Force
+[2019.02.28-23.57.41:651][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.28-23.57.41:651][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld' with GeneratedClass '/Game/Maps/TylerWorld.TylerWorld_C' with ClassGeneratedBy '/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.TylerWorld'
+[2019.02.28-23.57.41:679][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.28-23.57.41:685][606]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_0.TRASH_MediaSoundComponent_5.AudioComponent_0) Not currently registered. Aborting.
+[2019.02.28-23.57.41:685][606]LogActorComponent: ReregisterComponent: (/Game/Maps/TylerWorld.TylerWorld:PersistentLevel.REINST_Volcano_C_1.TRASH_MediaSoundComponent_18.AudioComponent_1) Not currently registered. Aborting.
+[2019.02.28-23.57.41:728][607]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.02.28-23.57.47:572][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.57.49:194][443]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/VolcanoLevel/Pyroblast.Pyroblast
+[2019.02.28-23.58.04:455][790]BlueprintLog: New page: Compile Pyroblast
+[2019.02.28-23.58.04:464][790]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: World_6, Actor: /Engine/Transient.World_6:PersistentLevel.REINST_Pyroblast_C_0
+[2019.02.28-23.58.05:033][814]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.28-23.58.05:051][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VolcanoLevel/Pyroblast" FILE="Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset" SILENT=true
+[2019.02.28-23.58.05:069][814]LogSavePackage: Moving 'Z:/Unreal/NMED 4710/FinalProject_4710n/Saved/PyroblastE1AB11CD45B461F0608DAFA727BD066B.tmp' to 'Z:/Unreal/NMED 4710/FinalProject_4710n/Content/Blueprints/VolcanoLevel/Pyroblast.uasset'
+[2019.02.28-23.58.05:376][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.28-23.58.09:288][216]LogUObjectArray: Warning: Other object in slot
+[2019.02.28-23.58.09:288][216]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.28-23.58.09:293][216]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.004 s
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: 
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: Stack: 
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff859b81d4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff859c809e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff8387bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff828d769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff82890917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff928d7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff92b24393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff92932d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff92908a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff928fb263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff9bb4dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff9bb40de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff9bb501eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff9bb3ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fffc239ca66 USER32.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fffc239c582 USER32.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fff9bb51746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c2475546 UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c248596c UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c24859ea UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c24948da UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007ff7c249659a UE4Editor.exe!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fffc34e81f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: [Callstack] 0x00007fffc4b5a251 ntdll.dll!UnknownFunction []
+[2019.02.28-23.58.09:293][216]LogOutputDevice: Error: 
+[2019.02.28-23.58.09:299][216]LogStats:                SubmitErrorReport -  0.000 s
